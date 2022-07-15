@@ -229,15 +229,16 @@ hier im Material dann auch statt adquate - appropriate schreiben?
 ---
 ## .phgreenlight[Hypotheses]
 
-H<sub>1</sub>: When student teachers are first presented with a small anchor (N<sub>2</sub>=15), they rate the second large sample size (N<sub>2</sub>=500) as more appropriate.
-
-H<sub>2</sub>: When student teachers are first presented with a large anchor (N<sub>2</sub>=500), they rate the second small sample size (N<sub>2</sub>=15) as less appropriate .
-
-H<sub>3</sub>: In the control group, there are no differences between the appropriateness ratings of the first and second sample size. 
+H<sub>1</sub>: <br>
+a) The student teachers rate the sample size 2 as more appropriate if first presented with a small sample size (N<sub>1</sub>=15; small anchor) and afterwards with a large sample size (N<sub>2</sub>=500) than vice versa. <br>
+b) There is no difference in student teachers' appropriateness rating of sample size 2 between the control group 1 (N<sub>1</sub>=15, N<sub>2</sub>=15) and control group 2 (N<sub>1</sub>=500, N<sub>2</sub>=500)
 
 
 ???
+b)  The student teachers rate the sample size 2 as less appropriate if first presented with a large sample size (N<sub>1</sub>=500) and afterwards with a small sample size (N<sub>2</sub>=15) than vice versa. <br>
 wie formuliere ich das am besten als eine informative Hypothese
+
+ahh hier fehlt die kontrolle 
 ---
 
 class: hide_logo
