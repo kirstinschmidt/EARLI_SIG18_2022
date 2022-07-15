@@ -257,7 +257,7 @@ ahh hier fehlt die kontrolle
 ---
 
 class: hide_logo
-background-image: url("images/study_two_results.png")
+background-image: url("images/study_two_results_differencevariable.png")
 background-size: contain
 
 
