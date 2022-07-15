@@ -125,7 +125,7 @@ use_editable(expires = 1)
 <br>
 <br>
 <br>
-.phgreen[Paper Presenatation EARLI SIG 18 | 09.09.2022]  
+.phgreen[Paper Presentation EARLI SIG 18 | 09.09.2022]  
 
 ---
 
@@ -133,10 +133,10 @@ use_editable(expires = 1)
 ## .phgreenlight[Structure `r fontawesome::fa_i(name = "list-ul")`]
 * Evidence-Informed School Practice <i class="fas fa-school"></i>
 * Anchoring Effects `r fontawesome::fa_i(name = "anchor")`
-* Study 1: Anchoring Effects in  Engagement with Data <i class="fas fa-search"></i>
+* Study 1: Anchoring Effects in  Engagement With Data <i class="fas fa-search"></i>
   * Research Question <i class="fas fa-question"></i>
   * Sample `r fontawesome::fa_i(name = "users")`
-  * Design and Materials 
+  * Design and Materials `r fontawesome::fa_i(name = "align-left")`
   * Results <i class="far fa-chart-bar"></i>
 * Study 2: Anchoring Effects in Interpreting Scientific Evidence <i class="fas fa-search"></i>
   * Sample `r fontawesome::fa_i(name = "users")`
@@ -230,8 +230,21 @@ hier im Material dann auch statt adquate - appropriate schreiben?
 ## .phgreenlight[Hypotheses]
 
 H<sub>1</sub>: <br>
-a) The student teachers rate the sample size 2 as more appropriate if first presented with a small sample size (N<sub>1</sub>=15; small anchor) and afterwards with a large sample size (N<sub>2</sub>=500) than vice versa. <br>
-b) There is no difference in student teachers' appropriateness rating of sample size 2 between the control group 1 (N<sub>1</sub>=15, N<sub>2</sub>=15) and control group 2 (N<sub>1</sub>=500, N<sub>2</sub>=500)
+a) Taking into account the appropriateness rating of sample size 1, the experimental group 1 rates the presented sample size 2 as more appropriate than the experimental group 2. <br> 
+
+<!-- Das ist übrigens die Kommentarfunktion :-) --- jetzt klingt es so als würden beide die gleiche sample size 2 angezeigt bekommen -->
+b) Taking into account the appropriateness rating of sample size 1, the experimental group 2 rates the presentes sample size 2 as less appropriate than the experimental group 1. <br> 
+c) Taking into account the appropriateness rating of sample size 1, there is no difference in the appropriateness rating of sample size 2 between the control group 1 and control group 2.
+
+<br>
+<br>
+<br>
+<br>
+
+experimental group 1: N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 
+experimental group 2: N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15
+control group 1: N<sub>1</sub>=15, N<sub>2</sub>=15
+control group 2: N<sub>1</sub>=500, N<sub>2</sub>=500
 
 
 ???
