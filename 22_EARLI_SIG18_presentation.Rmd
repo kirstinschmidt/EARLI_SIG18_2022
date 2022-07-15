@@ -118,7 +118,7 @@ use_editable(expires = 1)
 .em13[Kirstin Schmidt<sup>1</sup>.white[<sup>†</sup>], Kristina Bohrer<sup>1</sup><sup>†</sup> and Samuel Merk<sup>1</sup>]
 
 
-<sup>1</sup> Pädagogische Hochschule Karlsruhe <br>
+<sup>1</sup> Karlsruhe University of Education <br>
 <sup>†</sup> presenting authors <br>
 <br>
 <br>
@@ -222,12 +222,16 @@ Randomized Controlled Trial with two within-person factors .phgreenlight[*topic 
 - two experimental groups: N1 = 15 and N2 = 500 or reverse 
 - two control groups: in both research reports the same sample size e.g., N1 = 15 und N2 = 15
 
+???
+
+hier im Material dann auch statt adquate - appropriate schreiben?
+
 ---
-## .phgreenlight[Hypothesis]
+## .phgreenlight[Hypotheses]
 
-H<sub>1</sub>: When student teachers are first presented with a small anchor (N<sub>2</sub>=15), they rate the second large sample size (N<sub>2</sub>=500) as more appropriate (than the first sample size).
+H<sub>1</sub>: When student teachers are first presented with a small anchor (N<sub>2</sub>=15), they rate the second large sample size (N<sub>2</sub>=500) as more appropriate.
 
-H<sub>2</sub>: When student teachers are first presented with a large anchor (N<sub>2</sub>=500), they rate the second small sample size (N<sub>2</sub>=15) as less appropriate (than the first sample size).
+H<sub>2</sub>: When student teachers are first presented with a large anchor (N<sub>2</sub>=500), they rate the second small sample size (N<sub>2</sub>=15) as less appropriate .
 
 H<sub>3</sub>: In the control group, there are no differences between the appropriateness ratings of the first and second sample size. 
 
@@ -236,8 +240,9 @@ H<sub>3</sub>: In the control group, there are no differences between the approp
 wie formuliere ich das am besten als eine informative Hypothese
 ---
 
-## .phgreenlight[Results <i class="far fa-chart-bar"></i>]
-
+class: hide_logo
+background-image: url("images/study_two_results.png")
+background-size: contain
 
 
 ???
@@ -250,7 +255,7 @@ class: inverse, center, middle
 
 ---
 ## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
-*
+
 * Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence 
 
 Anchoring effects in data-based decision making....
@@ -267,17 +272,11 @@ Anchoring effects in interpreting scientific evidence
 ## .phgreenlight[References <i class="fas fa-book-open"></i>]
 
 .em08[
-Akl, E. A., Oxman, A. D., Herrin, J., Vist, G. E., Terrenato, I., Sperati, F., Costiniuk, C., Blank, D., & Schünemann, H. (2011). Using alternative statistical formats for presenting risks and risk reductions. Cochrane Database of Systematic Reviews, 2011(3), Article CD006776. https://doi.org/10.1002/14651858.CD006776.pub2 <br>
-Borg, S. (2009). English language teachers’ conceptions of research. Applied Linguistics, 30(3), 358–388. https://doi.org/10.1093/applin/amp007 <br>
 Bromme, R., & Goldman, S. R. (2014). The public’s bounded understanding of science. Educational Psychologist, 49(2), 59–69. https://doi.org/10.1080/00461520.2014.921572 <br>
 Bromme, R., Kienhues, D., & Porsch, T. (2010). Who knows what and who can we believe? Epistemological beliefs are beliefs about knowledge (mostly) to be attained from others. In L. D. Bendixen & F. C. Feucht (Eds.), Personal epistemology in the classroom (pp. 163–194). Cambridge University Press. https://doi.org/10.1017/CBO9780511691904.006 <br>
 Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. Educational Research, 59(2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
-Coe, R. (2002, 12-14 September). It’s the effect size, stupid. What effect size is and why it is important [Paper presentation]. British Educational Research Association annual conference 2002, Exeter, UK. <br>
-Cumming, G. (2014). The new statistics: Why and how. Psychological Science, 25(1), 7–29. https://doi.org/10.1177/0956797613504966 <br>
-DESTATIS (2021, 17 September). Allgemeinbildende Schulen – Fachserie 11 Reihe 1 – Schuljahr 2020/2021. https://www.statistischebibliothek.de/mir/receive/DEHeft_mods_00136642 <br>
-Diery, A., Knogler, M., Mazziotti, C., Schneeweiss, A., Hetmanek, A., Holzberger, D., & Seidel, T. (2020). Das Clearing House Unterricht. Ein Service für die Lehrer*innenbildung?! journal für lehrerInnenbildung, 20(2), 42–51. https://doi.org/10.35468/jlb-02-2020_03 <br>
-Gigerenzer, G., & Edwards, A. (2003). Simple tools for understanding risks: From innumeracy to insight. British Medical Journal. https://doi.org/10.1136/bmj.327.7417.741 <br>
-Goodman, S. (2008). A dirty dozen: Twelve p-value misconceptions. Seminars in Hematology, 45(3), 135–140. https://doi.org/10.1053/j.seminhematol.2008.04.003 <br>
+Hoijtink, H., Mulder, J., van Lissa, C., & Gu, X. (2019). A tutorial on testing hypotheses using the Bayes factor. Psychological Methods, 24(5), 539–556.https://doi.org/10.1037/met0000201 <br>
+Kühberger, A., Fritz, A., Lermer, E., & Scherndl, T. (2015). The significance fallacy in inferential statistics. BMC Research Notes, 8(1), 84. https://doi.org/10.1186/s13104-015-1020-4 
 ]
 
 ---
@@ -285,17 +284,7 @@ Goodman, S. (2008). A dirty dozen: Twelve p-value misconceptions. Seminars in He
 ## .phgreenlight[Referenzen <i class="fas fa-book-open"></i>]
 
 .em08[
-Haller, H., & Krauss, S. (2002). Misinterpretations of significance: A problem students share with their teachers? Methods of Psychological Research, 7(1), 1–20. <br>
-Hanel, P. H., & Mehler, D. M. (2019). Beyond reporting statistical significance: Identifying informative effect sizes to improve scientific communication. Public Understanding of Science, 28(4), 468–485. https://doi.org/10.1177/0963662519834193 <br>
-Hoijtink, H., Mulder, J., van Lissa, C., & Gu, X. (2019). A tutorial on testing hypotheses using the Bayes factor. Psychological Methods, 24(5), 539–556.https://doi.org/10.1037/met0000201 <br>
-Kühberger, A., Fritz, A., Lermer, E., & Scherndl, T. (2015). The significance fallacy in inferential statistics. BMC Research Notes, 8(1), 84. https://doi.org/10.1186/s13104-015-1020-4 <br>
-Leat, D., Reid, A., & Lofthouse, R. (2015). Teachers’ experiences of engagement with and in educational research: What can be learned from teachers’ views? Oxford Review of Education, 41(2), 270–286. https://doi.org/10.1080/03054985.2015.1021193 <br>
-Lortie-Forgues, H., Sio, U. N., & Inglis, M. (2021). How Should Educational Effects Be Communicated to Teachers? Educational Researcher, 50(6), 345–354. https://doi.org/10.3102/0013189X20987856 <br>
-Ostkamp, L. (2017). Understanding the concept of null hypothesis significance testing [Master Thesis, Bielefeld University]. https://osf.io/tc8m4/download <br>
-Pierce, R., & Chick, H. (2013). Workplace statistical literacy for teachers: Interpreting box plots. Mathematics Education Research Journal, 25(2), 189–205. https://doi.org/10.1007/s13394-012-0046-3 <br>
-Prinz, A., Golke, S., & Wittwer, J. (2019). Refutation texts compensate for detrimental effects of misconceptions on comprehension and metacomprehension accuracy and support transfer. Journal of Educational Psychology, 111(6), 957–981. https://doi.org/10.1037/edu0000329 <br>
-Schildkamp, K. (2019). Data-based decision-making for school improvement: Research insights and gaps. Educational Research, 61(3), 257–273. https://doi.org/10.1080/00131881.2019.1625716 <br>
-Sotos, A. E. C., Vanhoof, S., Van den Noortgate, W., & Onghena, P. (2009). How confident are students in their misconceptions about hypothesis tests? Journal of Statistics Education, 17(2), 2. https://doi.org/10.1080/10691898.2009.11889514
+...
 ]
 ---
 class: inverse, center, middle
