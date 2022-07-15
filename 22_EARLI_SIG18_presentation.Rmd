@@ -120,6 +120,11 @@ use_editable(expires = 1)
 
 <sup>1</sup> Pädagogische Hochschule Karlsruhe <br>
 <sup>†</sup> presenting authors <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 .phgreen[Paper Presenatation EARLI SIG 18 | 09.09.2022]  
 
 ---
@@ -127,7 +132,7 @@ use_editable(expires = 1)
 
 ## .phgreenlight[Structure `r fontawesome::fa_i(name = "list-ul")`]
 * Evidence-Informed School Practice <i class="fas fa-school"></i>
-* Anchoring Effects 
+* Anchoring Effects `r fontawesome::fa_i(name = "anchor")`
 * Study 1: Anchoring Effects in  Engagement with Data <i class="fas fa-search"></i>
   * Research Question <i class="fas fa-question"></i>
   * Sample `r fontawesome::fa_i(name = "users")`
@@ -152,10 +157,10 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 
-# Anchoring Effects 
+# Anchoring Effects `r fontawesome::fa_i(name = "anchor")` 
 
 ---
-## .phgreenlight[Anchoring Effects]
+## .phgreenlight[Anchoring Effects`r fontawesome::fa_i(name = "anchor")`]
 
 
 ---
@@ -181,7 +186,7 @@ Research Question <i class="fas fa-question"></i>
 
 ## .phgreenlight[Sample `r fontawesome::fa_i(name = "users")`]
 
-<center> N = 233 student teachers from the Karlsruhe University of Education </center>
+<center> .phgreenlight[*N* = 233 student teachers from the Karlsruhe University of Education] </center>
 
 * 85 % female student teachers
 * M<sub>semesters</sub> = 3.4
@@ -192,7 +197,7 @@ Research Question <i class="fas fa-question"></i>
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two within-person factors *topic of educational research* and *sample size*
+Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*sample size*]
 
 <img style="vertical-align:middle" src="images/Confhindanch_study_material_1.jpg">
 
@@ -208,7 +213,7 @@ Randomized Controlled Trial with two within-person factors *topic of educational
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two within-person factors *topic of educational research* and *sample size*
+Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*sample size*]
 
 <img style="vertical-align:middle" src="images/Confhindanch_study_material.jpg">
 
@@ -220,15 +225,15 @@ Randomized Controlled Trial with two within-person factors *topic of educational
 ---
 ## .phgreenlight[Hypothesis]
 
-H<sub>1</sub>: When student teachers are first presented with a small anchor (N<sub>2</sub>=15), they rate the appropriateness of the second large sample size (N<sub>2</sub>=500).
+H<sub>1</sub>: When student teachers are first presented with a small anchor (N<sub>2</sub>=15), they rate the second large sample size (N<sub>2</sub>=500) as more appropriate (than the first sample size).
 
-H<sub>2</sub>: When student teachers are first presented with a large anchor (N<sub>2</sub>=500), they rate the second small sample size (N<sub>2</sub>=15) as less appropriate.
+H<sub>2</sub>: When student teachers are first presented with a large anchor (N<sub>2</sub>=500), they rate the second small sample size (N<sub>2</sub>=15) as less appropriate (than the first sample size).
 
-H<sub>3</sub>: In the control group, there are no differences between the first and second appropriateness ratings. 
+H<sub>3</sub>: In the control group, there are no differences between the appropriateness ratings of the first and second sample size. 
 
 
 ???
-wie formuliere ich das am besten als eine Hypothese
+wie formuliere ich das am besten als eine informative Hypothese
 ---
 
 ## .phgreenlight[Results <i class="far fa-chart-bar"></i>]
@@ -245,8 +250,7 @@ class: inverse, center, middle
 
 ---
 ## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
-
-* 
+*
 * Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence 
 
 Anchoring effects in data-based decision making....
