@@ -227,23 +227,25 @@ Randomized Controlled Trial with two within-person factors .phgreenlight[*topic 
 hier im Material dann auch statt adquate - appropriate schreiben?
 
 ---
-## .phgreenlight[Hypotheses]
+## .phgreenlight[Hypothesis]
 
-H<sub>1</sub>: <br>
-a) Taking into account the appropriateness rating of sample size 1, the experimental group 1 rates the presented sample size 2 as more appropriate than the experimental group 2. <br> 
-
+a) Taking into account the appropriateness rating of sample size 1, the .phgreen[experimental group 1] rates the presented .phgreen[sample size 2 as more appropriate] than the experimental group 2. <br> 
 <!-- Das ist übrigens die Kommentarfunktion :-) --- jetzt klingt es so als würden beide die gleiche sample size 2 angezeigt bekommen -->
-b) Taking into account the appropriateness rating of sample size 1, the experimental group 2 rates the presentes sample size 2 as less appropriate than the experimental group 1. <br> 
-c) Taking into account the appropriateness rating of sample size 1, there is no difference in the appropriateness rating of sample size 2 between the control group 1 and control group 2.
+b) Taking into account the appropriateness rating of sample size 1, the .phgreen[experimental group 2] rates the presented .phgreen[sample size 2 as less appropriate] than the experimental group 1. <br> 
+c) Taking into account the appropriateness rating of sample size 1, there is .phgreen[no difference in the appropriateness rating of sample size 2] between the .phgreen[control group 1 and control group 2].
+
+<br>
+
+*<center> H<sub>1</sub>:  µ<sub>exp.group1</sub> > µ<sub>exp.group2</sub> & µ<sub>con.group1</sub>=µ<sub>con.group2</sub> </center>*
 
 <br>
 <br>
 <br>
 <br>
 
-experimental group 1: N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 
-experimental group 2: N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15
-control group 1: N<sub>1</sub>=15, N<sub>2</sub>=15
+experimental group 1: N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
+experimental group 2: N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
+control group 1: N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
 control group 2: N<sub>1</sub>=500, N<sub>2</sub>=500
 
 
