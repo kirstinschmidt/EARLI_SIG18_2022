@@ -180,7 +180,7 @@ class: inverse, center, middle
 
 ???
 
-Research Question <i class="fas fa-question"></i>
+- in the second study we again analyzed anchoring effects, but this time we analyzed whether they influence student teachers' interpretation of scientific evidence or more specifically the appropriateness of the sample size
 
 ---
 
@@ -189,7 +189,8 @@ Research Question <i class="fas fa-question"></i>
 <center> .phgreenlight[*N* = 233 student teachers from the Karlsruhe University of Education] </center>
 
 * 85 % female student teachers
-* M<sub>semesters</sub> = 3.4
+* M<sub>semesters</sub> = 3.36 (*SD* = 1.28)
+* M<sub>practical experiences</sub> = 15.49 h (*SD* = 45.79)
 * subjects?
 
 
@@ -199,7 +200,7 @@ Research Question <i class="fas fa-question"></i>
 
 Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*sample size*]
 
-<img style="vertical-align:middle" src="images/Confhindanch_study_material_1.jpg">
+<img style="vertical-align:middle" src="images/confhindanch_studymaterial_1.png">
 
 ???
 - each participant presented with two study reports on different topics from educational research sequentially and in randomized order
@@ -215,7 +216,7 @@ Randomized Controlled Trial with two within-person factors .phgreenlight[*topic 
 
 Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*sample size*]
 
-<img style="vertical-align:middle" src="images/Confhindanch_study_material.jpg">
+<img style="vertical-align:middle" src="images/confhindanch_studymaterial_2.png">
 
 ???
 - after participants have read the report, decided, among others, whether ‘the investigated sample size of students (either N = 15 or N = 500) in the presented study is appropriate to answer the research question’ using a Likert scale ranging from 1 = totally disagree to 7 = totally agree
@@ -243,10 +244,10 @@ c) Taking into account the appropriateness rating of sample size 1, there is .ph
 <br>
 <br>
 
-experimental group 1: N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
-experimental group 2: N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
-control group 1: N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
-control group 2: N<sub>1</sub>=500, N<sub>2</sub>=500
+<center> experimental group 1 (exp.group1): N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
+experimental group 2 (exp.group2): N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
+control group 1 (con.group1): N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
+control group 2 (con.group1):: N<sub>1</sub>=500, N<sub>2</sub>=500 </center>
 
 
 ???
