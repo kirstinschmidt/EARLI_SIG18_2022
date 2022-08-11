@@ -154,6 +154,14 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Evidence-Informed School Practice <i class="fas fa-school"></i>]
 
+* Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions (Schildkamp, 2019).
+<br>
+<br>
+* Both concepts, data-based decision-making and research-informed teaching practice, can be combined under the overarching approach of evidence-informed practice (Brown et al., 2017).
+<br>
+<br>
+* 
+
 ---
 class: inverse, center, middle
 
@@ -207,15 +215,15 @@ H<sub>2</sub>: The .phgreen[anchor] that is selected (small sample vs. small to 
 <br>
 <br>
 
-experimental group 1: N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
-experimental group 2: N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
-control group 1: N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
-control group 2: N<sub>1</sub>=500, N<sub>2</sub>=500
-
-
 ???
 - xx
 - yy
+
+
+---
+## .phgreenlight[Results]
+
+tbd
 
 ---
 class: inverse, center, middle
