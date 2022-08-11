@@ -162,6 +162,7 @@ class: inverse, center, middle
 <br>
 * test
 * test
+* test2
 
 ---
 class: inverse, center, middle
