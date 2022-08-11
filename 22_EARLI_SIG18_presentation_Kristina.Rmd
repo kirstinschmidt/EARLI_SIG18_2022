@@ -207,15 +207,15 @@ H<sub>2</sub>: The .phgreen[anchor] that is selected (small sample vs. small to 
 <br>
 <br>
 
-experimental group 1: N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
-experimental group 2: N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
-control group 1: N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
-control group 2: N<sub>1</sub>=500, N<sub>2</sub>=500
-
-
 ???
 - xx
 - yy
+
+
+---
+## .phgreenlight[Results]
+
+tbd
 
 ---
 class: inverse, center, middle
