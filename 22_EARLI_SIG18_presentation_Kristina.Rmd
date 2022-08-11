@@ -170,7 +170,52 @@ class: inverse, center, middle
 
 ---
 
-## .phgreenlight[Study 1: Anchoring Effects in <br> Engagement with Data <i class="fas fa-search"></i>]
+## .phgreenlight[Sample `r fontawesome::fa_i(name = "users")`]
+
+<center> .phgreenlight[*N* = 68 student teachers from the Karlsruhe University of Education] </center>
+
+* 70.59 % female student teachers
+* M<sub>semesters</sub> = 4.73
+* subjects?
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*anchor*]
+
+<img style="vertical-align:middle" src="images/study_one_design_dark.pdf">
+
+???
+- xx
+- yy
+
+
+---
+## .phgreenlight[Hypothesis]
+
+H<sub>1</sub>: The .phgreen[anchor] that is selected (small sample vs. small to large sample) influences the .phgreen[size of the initial sampling in the third virtual study]. <br> 
+<!-- Das ist übrigens die Kommentarfunktion :-) -->
+H<sub>2</sub>: The .phgreen[anchor] that is selected (small sample vs. small to large sample) influences the .phgreen[maximum sample size in the third virtual study].
+
+<br>
+
+*<center> statistical hypotheses </center>*
+
+<br>
+<br>
+<br>
+<br>
+
+experimental group 1: N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
+experimental group 2: N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
+control group 1: N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
+control group 2: N<sub>1</sub>=500, N<sub>2</sub>=500
+
+
+???
+- xx
+- yy
 
 ---
 class: inverse, center, middle
