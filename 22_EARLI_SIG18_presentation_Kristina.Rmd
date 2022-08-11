@@ -192,9 +192,9 @@ class: inverse, center, middle
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*anchor*]
+Randomized Controlled Trial with two experimental groups: .phgreenlight[*small anchor and small to large anchor*]
 
-<img style="vertical-align:middle" src="images/study_one_design_dark.pdf">
+<img style="vertical-align:middle" src="images/study_one_design_light.pdf">
 
 ???
 - xx
@@ -202,11 +202,13 @@ Randomized Controlled Trial with two within-person factors .phgreenlight[*topic 
 
 
 ---
-## .phgreenlight[Hypothesis]
+## .phgreenlight[Hypotheses]
 
-H<sub>1</sub>: The .phgreen[anchor] that is selected (small sample vs. small to large sample) influences the .phgreen[size of the initial sampling in the third virtual study]. <br> 
+H<sub>1</sub>: The given sampling options (small sample vs. small to large sample = .phgreen[small anchor vs. small to large anchor]) influences the .phgreen[size of the initial sampling in the third virtual study]. <br> 
 <!-- Das ist übrigens die Kommentarfunktion :-) -->
-H<sub>2</sub>: The .phgreen[anchor] that is selected (small sample vs. small to large sample) influences the .phgreen[maximum sample size in the third virtual study].
+<br>
+<br>
+H<sub>2</sub>: The given sampling options .phgreen[(small sample vs. small to large sample = small anchor vs. small to large anchor)] influences the .phgreen[maximum sample size in the third virtual study].
 
 <br>
 
