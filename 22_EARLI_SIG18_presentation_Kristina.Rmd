@@ -160,7 +160,8 @@ class: inverse, center, middle
 * Both concepts, data-based decision-making and research-informed teaching practice, can be combined under the overarching approach of evidence-informed practice (Brown et al., 2017).
 <br>
 <br>
-* 
+* test
+* test
 
 ---
 class: inverse, center, middle
