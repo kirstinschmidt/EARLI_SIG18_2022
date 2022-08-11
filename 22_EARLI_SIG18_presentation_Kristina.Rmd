@@ -154,6 +154,14 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Evidence-Informed School Practice <i class="fas fa-school"></i>]
 
+* Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions (Schildkamp, 2019).
+<br>
+<br>
+* Both concepts, data-based decision-making and research-informed teaching practice, can be combined under the overarching approach of evidence-informed practice (Brown et al., 2017).
+<br>
+<br>
+* 
+
 ---
 class: inverse, center, middle
 
