@@ -190,8 +190,7 @@ class: inverse, center, middle
 
 * 85 % female student teachers
 * M<sub>semesters</sub> = 3.36 (*SD* = 1.28)
-* M<sub>practical experiences</sub> = 15.49 h (*SD* = 45.79)
-* subjects?
+* 70.81 % of the students studied at least one STEM subject
 
 
 ---
