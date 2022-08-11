@@ -245,10 +245,10 @@ c) Taking into account the appropriateness rating of sample size 1, there is .ph
 <br>
 <br>
 
-<center> experimental group 1 (exp.group1): N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
+experimental group 1 (exp.group1): N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
 experimental group 2 (exp.group2): N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
 control group 1 (con.group1): N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
-control group 2 (con.group1):: N<sub>1</sub>=500, N<sub>2</sub>=500 </center>
+control group 2 (con.group1): N<sub>1</sub>=500, N<sub>2</sub>=500
 
 
 ???
@@ -264,7 +264,7 @@ background-size: contain
 
 
 ???
-
+- Frage an Samuel: passt die Skalierung?
 - to analyze whether the sample size presented in the first report acted as an anchor for assessing the adequacy of the sample size in the second report, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one
 ---
 class: inverse, center, middle
@@ -276,16 +276,20 @@ class: inverse, center, middle
 
 * Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence 
 
-Anchoring effects in data-based decision making....
-* ...
-* ...
+Anchoring effects in data-based decision-making
+* Benchmarks in Vergleichsarbeiten (e.g., assessments) might act as an anchor for interpreting the achievement of one's own students resulting in different teaching practices e.g., teaching to the test (Garner et al., 2017)
+
 
 Anchoring effects in interpreting scientific evidence
-* Large-scale assessments (e.g., PISA) might act as an anchor resulting in a devaluation of scientific evidence based on smaller sample sizes 
-  * sample sizes are not indicator of quality and validity
-* mediator ?
+* Large-scale assessments (e.g., PISA) might act as an anchor resulting in a devaluation of scientific evidence based on smaller sample sizes &rarr; sample sizes are not the only indicator of quality and validity
 
-* Limitations
+???
+
+* vermeintliche Objektivität dieser Methoden, aber auch hier kommen Verzerrungen ins Spiel -> wichtig zu wissen, um darauf eingehen zu können und sie möglicherweise sogar positiv wenden zu können
+
+Überlegungen für Rückfragen
+- mediator
+- limitations 
 ---
 ## .phgreenlight[References <i class="fas fa-book-open"></i>]
 
