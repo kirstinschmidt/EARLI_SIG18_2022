@@ -157,7 +157,7 @@ class: inverse, center, middle
 * Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions (Schildkamp, 2019).
 <br>
 <br>
-* Both concepts, data-based decision-making and research-informed teaching practice, can be combined under the overarching approach of evidence-informed practice (Brown et al., 2017).
+* Both concepts, .phgreenlight[data-based decision-making] and .phgreenlight[research-informed teaching practice], can be combined under the overarching approach of .phgreenlight[evidence-informed practice] (Brown et al., 2017).
 <br>
 <br>
 * ...opportunities of EIP...
@@ -166,6 +166,8 @@ class: inverse, center, middle
 class: inverse, center, middle
 
 # Anchoring Effects `r fontawesome::fa_i(name = "anchor")` 
+
+*  a numeric judgment is assimilated to a previous known standard (Mochon & Frederick, 2013; Tversky & Kahneman, 1974)
 
 ---
 ## .phgreenlight[Anchoring Effects`r fontawesome::fa_i(name = "anchor")`]
