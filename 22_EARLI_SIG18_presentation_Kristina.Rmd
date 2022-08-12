@@ -183,16 +183,21 @@ class: inverse, center, middle
 ## .phgreenlight[Sample `r fontawesome::fa_i(name = "users")`]
 
 <center> .phgreenlight[*N* = 68 student teachers from the Karlsruhe University of Education] </center>
-
+<br>
+<br>
 * 70.59 % female student teachers
-* M<sub>semesters</sub> = 4.73 (SD = 3.02)
-* subjects?
+<br>
+<br>
+* M<sub>semesters</sub> = 4.73 (*SD* = 3.02)
+<br>
+<br>
+* 69.12 % of the students studied at least one STEM subject
 
 ---
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two experimental groups: .phgreenlight[*small anchor and small to large anchor*]
+Randomized Controlled Trial with two experimental groups: .phgreenlight[*small anchor*] and .phgreenlight[*small to large anchor*]
 
 <img style="vertical-align:middle" src="images/study_one_design_light.pdf">
 
@@ -204,15 +209,15 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
 ---
 ## .phgreenlight[Hypotheses]
 
-H<sub>1</sub>: The given sampling options (small sample vs. small to large sample = .phgreen[small anchor vs. small to large anchor]) influences the .phgreen[size of the initial sampling in the third virtual study]. <br> 
+H<sub>1</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the size of the initial sampling] in the third virtual study. <br> 
 <!-- Das ist übrigens die Kommentarfunktion :-) -->
 <br>
 <br>
-H<sub>2</sub>: The given sampling options .phgreen[(small sample vs. small to large sample = small anchor vs. small to large anchor)] influences the .phgreen[maximum sample size in the third virtual study].
+H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the maximum sample size] in the third virtual study.
 
 <br>
 
-*<center> statistical hypotheses </center>*
+*<center> H<sub>1</sub>:  µ<sub>small samples</sub> < µ<sub>small to large samples</sub> <br> H<sub>2</sub>:  µ<sub>small samples</sub> < µ<sub>small to large samples</sub> </center>*
 
 <br>
 <br>
