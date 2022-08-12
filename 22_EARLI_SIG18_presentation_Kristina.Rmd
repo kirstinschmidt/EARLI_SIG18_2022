@@ -185,7 +185,7 @@ class: inverse, center, middle
 <center> .phgreenlight[*N* = 68 student teachers from the Karlsruhe University of Education] </center>
 
 * 70.59 % female student teachers
-* M<sub>semesters</sub> = 4.73
+* M<sub>semesters</sub> = 4.73 (SD = 3.02)
 * subjects?
 
 ---
