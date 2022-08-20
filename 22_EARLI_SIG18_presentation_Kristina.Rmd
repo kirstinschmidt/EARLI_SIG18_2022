@@ -154,13 +154,34 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Evidence-Informed School Practice <i class="fas fa-school"></i>]
 
-* Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions (Schildkamp, 2019).
+* Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions (European Commission of the European Communities, 2007; Schildkamp, 2019).
 <br>
 <br>
-* Both concepts, .phgreenlight[data-based decision-making] and .phgreenlight[research-informed teaching practice], can be combined under the overarching approach of .phgreenlight[evidence-informed practice] (Brown et al., 2017).
+* Both concepts, .phgreenlight[data-based decision-making] and .phgreenlight[research-informed educational practice], can be combined under the overarching approach of .phgreenlight[evidence-informed practice] (Brown et al., 2017; Brown et al., 2022).
 <br>
 <br>
-* ...opportunities of EIP...
+* Advantages of DBDM (Mandinach & Schildkamp, 2021):
+  * Individual data basis
+  * Reactions to the subjective needs of the students as well as the specific school situations
+  * ...
+<br>
+<br>
+* Advantages of RIEP (Bromme et al., 2014; Flood & Brown, 2020; Stark, 2017):
+  * As an external input
+  * Critical reflection on professional actions
+  * Legitimation and justification of decisions
+  
+  
+???
+* Advantages of RIEP
+  - Because of research as an external input with higher objectiveness...
+  - high credibility due to methodological conventions 
+  
+* Unfortunately there are some barriers making it harder for teachers to engage with evidence
+ - like a lack of competences - data-literacy as well as research-literacy
+ - not enough time during everyday practice
+ - considering it as irrelevant, not useful, far away from their practical needs
+* And there are some barriers concerning the correct interpretation, like cognitive biases
 
 ---
 class: inverse, center, middle
@@ -204,6 +225,10 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
 ???
 - xx
 - yy
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
 
 ---
