@@ -196,6 +196,7 @@ class: inverse, center, middle
 ## .phgreenlight[Anchoring Effects`r fontawesome::fa_i(name = "anchor")`]
 
 *  a numeric judgment is assimilated to a previous known standard (Mochon & Frederick, 2013; Tversky & Kahneman, 1974)
+* tbd
 
 ---
 class: inverse, center, middle
@@ -281,6 +282,9 @@ H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 
 
 ???
+- @Samuel: Welche Inferenzstatistik berichten wir hier sinnvollerweise?
+  -> BF - konsistent mit study 2 aber zum eigentlich nicht passenden t-Test
+  -> p-Wert zum wilcoxon-Test - dann aber inkonsistent zu study 2 (hier wäre die Interpretation mit p<.001 tatsächlich auch eine andere...)
 
 ---
 class: inverse, center, middle
@@ -379,7 +383,7 @@ background-size: contain
 
 
 ???
-- Frage an Samuel: passt die Skalierung?
+- Frage @Samuel: passt die Skalierung?
 - to analyze whether the sample size presented in the first report acted as an anchor for assessing the adequacy of the sample size in the second report, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one
 ---
 class: inverse, center, middle
@@ -389,18 +393,26 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
 
-* Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence 
+* Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence. 
+* DBDM and RIEP are supposed to be objective methods &rarr; important to know about still possible biases
 
-Anchoring effects in data-based decision-making
-* Benchmarks in Vergleichsarbeiten (e.g., assessments) might act as an anchor for interpreting the achievement of one's own students resulting in different teaching practices e.g., teaching to the test (Garner et al., 2017)
+<br>
 
+Anchoring effects in .phgreen[data-based decision-making]
+* Benchmarks in national tests (e.g., statewide assessments) might act as an anchor for interpreting the achievement of one's own students resulting in different teaching practices
+* e.g., teaching to the test (Garner et al., 2017)
 
-Anchoring effects in interpreting scientific evidence
-* Large-scale assessments (e.g., PISA) might act as an anchor resulting in a devaluation of scientific evidence based on smaller sample sizes &rarr; sample sizes are not the only indicator of quality and validity
+<br>
+
+Anchoring effects in interpreting .phgreen[scientific evidence (RIEP)]
+* Large-scale assessments (e.g., PISA) might act as an anchor resulting in a devaluation of scientific evidence based on smaller sample sizes 
+* &rarr; sample sizes are not the only indicator of quality and validity
 
 ???
 
+* H2 in the first study not evident: could indicate more factors effecting the last sampling -> in further analyses we include additional factors, like ...
 * vermeintliche Objektivität dieser Methoden, aber auch hier kommen Verzerrungen ins Spiel -> wichtig zu wissen, um darauf eingehen zu können und sie möglicherweise sogar positiv wenden zu können
+* statewide assessments in Germany are...
 
 Überlegungen für Rückfragen
 - mediator
@@ -414,6 +426,7 @@ Brown, C., Macgregor, S., Flood, J., & Malin, J. (2022). Facilitating Research-I
 Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. Educational Research, 59(2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
 European Commission of the European Communities. (2007). Communication from the Commission to the Council and the European Parliament. Improving the Quality of Teacher Education (Nr. 392). https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52007DC0392&from=EN <br>
 Flood, J., & Brown, C. (2020). Exploring Teachers’ Conceptual Uses of Research as Part of the Development and Scale up of Research-Informed Practices. International Journal of Education Policy and Leadership, 16(10), Article 10. https://doi.org/10.22230/ijepl.2020v16n10a927 <br>
+Garner, B., Thorne, J. K., & Horn, I. S. (2017). Teachers interpreting data for instructional decisions: Where does equity come in? Journal of Educational Administration, 55(4), 407–426. https://doi.org/10.1108/JEA-09-2016-0106 <br>
 Mandinach, E. B., & Schildkamp, K. (2021). Misconceptions about data-based decision making in education: An exploration of the literature. Studies in Educational Evaluation, 69, 1–10. https://doi.org/10.1016/j.stueduc.2020.100842 <br>
 Mochon, D., & Frederick, S. (2013). Anchoring in sequential judgments. Organizational Behavior and Human Decision Processes, 122(1), 69–79. https://doi.org/10.1016/j.obhdp.2013.04.002 <br>
 Schildkamp, K. (2019). Data-based decision-making for school improvement: Research insights and gaps. Educational Research, 61(3), 257–273. https://doi.org/10.1080/00131881.2019.1625716 <br>
@@ -421,22 +434,7 @@ Stark, R. (2017). Probleme evidenzbasierter bzw. -Orientierter pädagogischer Pr
 Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. Science, 185(4157), 1124–1131.
 ]
 
-???
-.em08[
-Bromme, R., & Goldman, S. R. (2014). The public’s bounded understanding of science. Educational Psychologist, 49(2), 59–69. https://doi.org/10.1080/00461520.2014.921572 <br>
-Bromme, R., Kienhues, D., & Porsch, T. (2010). Who knows what and who can we believe? Epistemological beliefs are beliefs about knowledge (mostly) to be attained from others. In L. D. Bendixen & F. C. Feucht (Eds.), Personal epistemology in the classroom (pp. 163–194). Cambridge University Press. https://doi.org/10.1017/CBO9780511691904.006 <br>
-Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. Educational Research, 59(2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
-Hoijtink, H., Mulder, J., van Lissa, C., & Gu, X. (2019). A tutorial on testing hypotheses using the Bayes factor. Psychological Methods, 24(5), 539–556.https://doi.org/10.1037/met0000201 <br>
-Kühberger, A., Fritz, A., Lermer, E., & Scherndl, T. (2015). The significance fallacy in inferential statistics. BMC Research Notes, 8(1), 84. https://doi.org/10.1186/s13104-015-1020-4 
-]
 
----
-
-## .phgreenlight[Referenzen <i class="fas fa-book-open"></i>]
-
-.em08[
-...
-]
 ---
 class: inverse, center, middle
 
