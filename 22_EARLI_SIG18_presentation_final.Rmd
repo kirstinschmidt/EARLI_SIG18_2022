@@ -167,7 +167,6 @@ class: inverse, center, middle
 * Advantages of DBDM (Mandinach & Schildkamp, 2021):
   * Individual data basis
   * Reactions to the subjective needs of the students as well as the specific school situations
-  * ...
 <br>
 <br>
 * Advantages of RIEP (Bromme et al., 2014; Flood & Brown, 2020; Stark, 2017):
