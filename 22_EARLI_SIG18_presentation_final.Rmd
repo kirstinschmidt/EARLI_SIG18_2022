@@ -115,11 +115,11 @@ use_editable(expires = 1)
 ## .phgreenlight[Two Studies, one Result: Student Teachers are Biased by Anchors When Engaging With Evidence]
 <br>
 
-.em13[Kirstin Schmidt<sup>1</sup>.white[<sup>†</sup>], Kristina Bohrer<sup>1</sup><sup>†</sup> and Samuel Merk<sup>1</sup>]
+.em13[Kirstin Schmidt<sup>1</sup>.white[<sup>2</sup>], Kristina Bohrer<sup>1</sup><sup>2</sup> and Samuel Merk<sup>1</sup>]
 
 
 <sup>1</sup> Karlsruhe University of Education <br>
-<sup>†</sup> presenting authors <br>
+<sup>2</sup> presenting authors <br>
 <br>
 <br>
 <br>
@@ -128,7 +128,7 @@ use_editable(expires = 1)
 .phgreen[Paper Presentation EARLI SIG 18 | 09.09.2022]  
 
 ???
-@Samuel: Wie bekommen wir * anstelle der † ohne dass der Text italic wird?
+
 
 ---
 
