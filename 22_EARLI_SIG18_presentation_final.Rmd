@@ -234,27 +234,123 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-<img src="images/materials_study1_text.png"
-     width="600px"
+<img src="images/study1_exp.1.png"
+     width="550px"
      style="vertical-align:middle">
+Virtual experiment 1 - open text box
      
-<img src="images/materials_study1_small_to_large_anchor.png"
-    width="600px"
-    style="vertical-align:middle">
+<img src="images/study1_exp.2_small.png"
+     width="550px"
+     style="vertical-align:middle">
+Virtual experiment 2 - .phgreenlight[intervention group 1 with small sampling options]
+     
+<img src="images/study1_exp.3.png"
+     width="550px"
+     style="vertical-align:middle">
+Virtual experiment 3 - open text box
 
 ???
-- to-do@Marc: Screenshots übersetzen
+- xx
+- yy
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+<img src="images/study1_exp.1.png"
+     width="550px"
+     style="vertical-align:middle">
+Virtual experiment 1 - open text box
+     
+<img src="images/study1_exp.2_small_to_large.png"
+     width="550px"
+     style="vertical-align:middle">
+Exp. 2 - .phgreenlight[Group 2 with small to large sampling options]
+     
+<img src="images/study1_exp.3.png"
+     width="550px"
+     style="vertical-align:middle">
+Virtual experiment 3 - open text box
+
+???
+- xx
+- yy
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+.pull-left[
+    <img src="images/study1_exp.1.png"
+     width="550px"
+     style="vertical-align:middle">]
+.pull-right[Virtual experiment 1 - open text box]
+     
+.pull-left[
+    <img src="images/study1_exp.2_small_to_large.png"
+     width="550px"
+     style="vertical-align:middle">]
+.pull-right[
+    Virtual experiment 2 - .phgreenlight[Intervention group 2 with small to large sampling options]]
+     
+.pull-left[
+    <img src="images/study1_exp.3.png"
+     width="550px"
+     style="vertical-align:middle">]
+.pull-right[
+    Virtual experiment 3 - open text box]
+
+???
+- xx
+- yy
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+<img src="images/study1_exp.1.png"
+     width="550px"
+     style="vertical-align:middle">
+Virtual experiment 1 - open text box
+     
+<img src="images/study1_exp.2_text.png"
+     width="550px"
+     style="vertical-align:middle">
+Virtual experiment 2 - .phgreenlight[control group with open text boxes]
+
+<img src="images/study1_exp.3.png"
+     width="550px"
+     style="vertical-align:middle">
+Virtual experiment 3 - open text box
+
+???
+- xx
+- yy
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+Randomized Controlled Trial with two experimental groups: .phgreenlight[*small anchor*] and .phgreenlight[*small to large anchor*]
+
+<img style="vertical-align:middle" src="images/study_one_design_light.pdf">
+
+???
+- xx
 - yy
 
 ---
 ## .phgreenlight[Hypotheses]
 
-H<sub>1</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the size of the initial sampling] in the third virtual study. <br> 
-<!-- Das ist übrigens die Kommentarfunktion :-) -->
 <br>
-<br>
-H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the maximum sample size] in the third virtual study.
 
+H<sub>1</sub>: .phgreen[Small sampling options] in the second experiment (working as a small anchor) .phgreen[are leading to smaller initial samplings] in the third experiment than small to large sampling options (working as a small to large anchor).
+
+<br>
+
+H<sub>2</sub>: .phgreen[Small sampling options] in the second experiment (working as a small anchor) .phgreen[are leading to smaller maximum samplings] in the third experiment than small to large sampling options (working as a small to large anchor).
+
+<br>
 <br>
 
 *<center> H<sub>1</sub>:  µ<sub>small samples</sub> < µ<sub>small to large samples</sub> <br> H<sub>2</sub>:  µ<sub>small samples</sub> < µ<sub>small to large samples</sub> </center>*
@@ -265,8 +361,15 @@ H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 <br>
 
 ???
-- xx
-- yy
+Student teachers getting small sampling options in the second virtual experiment are choosing smaller sample sizes in the third virtual experiment than the student teachers getting small to large sampling options in den second experiment.
+
+H<sub>1</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the size of the initial sampling] in the third virtual study. <br> 
+<!-- Das ist übrigens die Kommentarfunktion :-) -->
+<br>
+<br>
+H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the maximum sample size] in the third virtual study.
+
+
 
 
 ---
@@ -282,9 +385,9 @@ H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 
 
 ???
-- @Samuel: Welche Inferenzstatistik berichten wir hier sinnvollerweise?
-  -> BF - konsistent mit study 2 aber zum eigentlich nicht passenden t-Test
-  -> p-Wert zum wilcoxon-Test - dann aber inkonsistent zu study 2 (hier wäre die Interpretation mit p<.001 tatsächlich auch eine andere...)
+- wilcoxon-tests and no t-tests because the data is not normally distributed
+- H1: exact BF: 848; W = 215; p-value <.001
+- H2: exact BF: 40.307; W = 289; p-value <.001
 
 ---
 class: inverse, center, middle
