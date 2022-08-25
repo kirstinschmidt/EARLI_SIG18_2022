@@ -135,18 +135,23 @@ use_editable(expires = 1)
 
 ## .phgreenlight[Structure `r fontawesome::fa_i(name = "list-ul")`]
 * Evidence-Informed School Practice <i class="fas fa-school"></i>
+
 * Anchoring Effects `r fontawesome::fa_i(name = "anchor")`
+
 * Study 1: Anchoring Effects in  Engagement With Data <i class="fas fa-search"></i>
   * Sample `r fontawesome::fa_i(name = "users")`
   * Design and Materials `r fontawesome::fa_i(name = "align-left")`
   * Hypotheses <i class="fas fa-question"></i>
   * Results <i class="far fa-chart-bar"></i>
+  
 * Study 2: Anchoring Effects in Interpreting Scientific Evidence <i class="fas fa-search"></i>
   * Sample `r fontawesome::fa_i(name = "users")`
   * Design and Materials `r fontawesome::fa_i(name = "align-left")`
   * Hypothesis <i class="fas fa-question"></i>
   * Results <i class="far fa-chart-bar"></i>
+
 * Discussion <i class="fab fa-weixin"></i>
+
 * References <i class="fas fa-book-open"></i>
 
 
@@ -158,18 +163,22 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Evidence-Informed School Practice <i class="fas fa-school"></i>]
 
-* Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions (European Commission of the European Communities, 2007; Schildkamp, 2019).
+* Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions .em06[(European Commission of the European Communities, 2007; Schildkamp, 2019)].
 <br>
 <br>
-* Both concepts, .phgreenlight[data-based decision-making] and .phgreenlight[research-informed educational practice], can be combined under the overarching approach of .phgreenlight[evidence-informed practice] (Brown et al., 2017; Brown et al., 2022).
+<br>
+* Both concepts, .phgreenlight[data-based decision-making] and .phgreenlight[research-informed educational practice], can be combined under the overarching approach of .phgreenlight[evidence-informed practice] .em06[(Brown et al., 2017; Brown et al., 2022)].
 <br>
 <br>
-* Advantages of DBDM (Mandinach & Schildkamp, 2021):
+<br>
+* Advantages of data-based decision-making .em06[(Mandinach & Schildkamp, 2021)]:
+<!-- Mit Ablürzungen DBDM & RIEP hantieren oder nicht? --> 
   * Individual data basis
   * Reactions to the subjective needs of the students as well as the specific school situations
 <br>
 <br>
-* Advantages of RIEP (Bromme et al., 2014; Flood & Brown, 2020; Stark, 2017):
+<br>
+* Advantages of research informed educational practice .em06[(Bromme et al., 2014; Flood & Brown, 2020; Stark, 2017)]:
   * As an external input
   * Critical reflection on professional actions
   * Legitimation and justification of decisions
@@ -195,7 +204,7 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Anchoring Effects`r fontawesome::fa_i(name = "anchor")`]
 
-*  a numeric judgment is assimilated to a previous known standard (Mochon & Frederick, 2013; Tversky & Kahneman, 1974)
+*  a numeric judgment is assimilated to a previous known standard .em06[(Mochon & Frederick, 2013; Tversky & Kahneman, 1974)]
 * tbd
 
 ---
@@ -234,20 +243,56 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-<img src="images/study1_exp.1.png"
-     width="550px"
-     style="vertical-align:middle">
-Virtual experiment 1 - open text box
+.pull-left[
+    <img src="images/study1_exp.1.png"
+     width="450px"
+     style="vertical-align:middle">]
+.pull-right[<br>
+    Virtual experiment 1 - open text box]
      
-<img src="images/study1_exp.2_small.png"
-     width="550px"
-     style="vertical-align:middle">
-Virtual experiment 2 - .phgreenlight[intervention group 1 with small sampling options]
+.pull-left[
+    <img src="images/study1_exp.2_small.png"
+     width="450px"
+     style="vertical-align:middle">]
+.pull-right[ <br>
+    Virtual experiment 2 - Intervention group 1 with small sampling options]
      
-<img src="images/study1_exp.3.png"
-     width="550px"
-     style="vertical-align:middle">
-Virtual experiment 3 - open text box
+.pull-left[
+    <img src="images/study1_exp.3.png"
+     width="450px"
+     style="vertical-align:middle">]
+.pull-right[<br>
+    Virtual experiment 3 - open text box]
+
+???
+- xx
+- yy
+
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+.pull-left[
+    <img src="images/study1_exp.1.png"
+     width="450px"
+     style="vertical-align:middle">]
+.pull-right[<br>
+    Virtual experiment 1 - open text box]
+     
+.pull-left[
+    <img src="images/study1_exp.2_small_to_large.png"
+     width="450px"
+     style="vertical-align:middle">]
+.pull-right[ <br>
+    Virtual experiment 2 - Intervention group 2 with small to large sampling options]
+     
+.pull-left[
+    <img src="images/study1_exp.3.png"
+     width="450px"
+     style="vertical-align:middle">]
+.pull-right[<br>
+    Virtual experiment 3 - open text box]
 
 ???
 - xx
@@ -257,20 +302,20 @@ Virtual experiment 3 - open text box
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-<img src="images/study1_exp.1.png"
-     width="550px"
-     style="vertical-align:middle">
-Virtual experiment 1 - open text box
-     
-<img src="images/study1_exp.2_small_to_large.png"
-     width="550px"
-     style="vertical-align:middle">
-Exp. 2 - .phgreenlight[Group 2 with small to large sampling options]
-     
-<img src="images/study1_exp.3.png"
-     width="550px"
-     style="vertical-align:middle">
-Virtual experiment 3 - open text box
+<table>
+  <tr>
+    <td><img src="images/study1_exp.1.png" width="600px"></td>
+    <td>Virtual experiment 1 - open text box</td>
+  
+  <tr>
+    <td><img src="images/study1_exp.2_small_to_large.png" width="600px"></td>
+    <td>Virtual experiment 2 - Intervention group 2 with small to large sampling options</td>
+
+<tr>
+    <td><img src="images/study1_exp.3.png" width="600px"></td>
+    <td>Virtual experiment 3 - open text box</td>
+   </tr>
+</table>
 
 ???
 - xx
@@ -282,46 +327,24 @@ Virtual experiment 3 - open text box
 
 .pull-left[
     <img src="images/study1_exp.1.png"
-     width="550px"
+     width="450px"
      style="vertical-align:middle">]
-.pull-right[Virtual experiment 1 - open text box]
+.pull-right[<br>
+    Virtual experiment 1 - open text box]
      
 .pull-left[
-    <img src="images/study1_exp.2_small_to_large.png"
-     width="550px"
+    <img src="images/study1_exp.2_text.png"
+     width="450px"
      style="vertical-align:middle">]
-.pull-right[
-    Virtual experiment 2 - .phgreenlight[Intervention group 2 with small to large sampling options]]
+.pull-right[ <br>
+    Virtual experiment 2 - Control group with open text box]
      
 .pull-left[
     <img src="images/study1_exp.3.png"
-     width="550px"
+     width="450px"
      style="vertical-align:middle">]
-.pull-right[
+.pull-right[<br>
     Virtual experiment 3 - open text box]
-
-???
-- xx
-- yy
-
----
-
-## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
-
-<img src="images/study1_exp.1.png"
-     width="550px"
-     style="vertical-align:middle">
-Virtual experiment 1 - open text box
-     
-<img src="images/study1_exp.2_text.png"
-     width="550px"
-     style="vertical-align:middle">
-Virtual experiment 2 - .phgreenlight[control group with open text boxes]
-
-<img src="images/study1_exp.3.png"
-     width="550px"
-     style="vertical-align:middle">
-Virtual experiment 3 - open text box
 
 ???
 - xx
@@ -460,17 +483,17 @@ c) Taking into account the appropriateness rating of sample size 1, there is .ph
 
 <br>
 
-*<center> H<sub>1</sub>:  µ<sub>exp.group1</sub> > µ<sub>exp.group2</sub> & µ<sub>con.group1</sub>=µ<sub>con.group2</sub> </center>*
+*<center> H<sub>1</sub>:  µ<sub>EG1</sub> > µ<sub>EG2</sub> & µ<sub>CG1</sub>=µ<sub>CG2</sub> </center>*
 
 <br>
 <br>
 <br>
 <br>
 
-experimental group 1 (exp.group1): N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
-experimental group 2 (exp.group2): N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
-control group 1 (con.group1): N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
-control group 2 (con.group1): N<sub>1</sub>=500, N<sub>2</sub>=500
+experimental group 1 (EG1): N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
+experimental group 2 (EG2): N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
+control group 1 (CG1): N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
+control group 2 (CG1): N<sub>1</sub>=500, N<sub>2</sub>=500
 
 
 ???
@@ -503,17 +526,16 @@ class: inverse, center, middle
 
 Anchoring effects in .phgreen[data-based decision-making]
 * Benchmarks in national tests (e.g., statewide assessments) might act as an anchor for interpreting the achievement of one's own students resulting in different teaching practices
-* e.g., teaching to the test (Garner et al., 2017)
+* e.g., teaching to the test .em06[(Garner et al., 2017)]
 
 <br>
 
-Anchoring effects in interpreting .phgreen[scientific evidence (RIEP)]
+Anchoring effects in interpreting .phgreen[scientific evidence]
 * Large-scale assessments (e.g., PISA) might act as an anchor resulting in a devaluation of scientific evidence based on smaller sample sizes 
 * &rarr; sample sizes are not the only indicator of quality and validity
 
 ???
 
-* H2 in the first study not evident: could indicate more factors effecting the last sampling -> in further analyses we include additional factors, like ...
 * vermeintliche Objektivität dieser Methoden, aber auch hier kommen Verzerrungen ins Spiel -> wichtig zu wissen, um darauf eingehen zu können und sie möglicherweise sogar positiv wenden zu können
 * statewide assessments in Germany are...
 
