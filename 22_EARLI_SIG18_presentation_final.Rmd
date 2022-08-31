@@ -198,15 +198,37 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 
-# Anchoring Effects `r fontawesome::fa_i(name = "anchor")` 
+# Anchoring Effect  `r fontawesome::fa_i(name = "anchor")` 
 
 
 ---
-## .phgreenlight[Anchoring Effects`r fontawesome::fa_i(name = "anchor")`]
+## .phgreenlight[Anchoring Effects `r fontawesome::fa_i(name = "anchor")`]
 
-*  a numeric judgment is assimilated to a previous known standard .em06[(Mochon & Frederick, 2013; Tversky & Kahneman, 1974)]
-* tbd
+* Anchoring = a numeric judgment is assimilated to a previous known standard .em06[(Mochon & Frederick, 2013; Tversky & Kahneman, 1974)]
+<br>
+<br>
+* The effect occurs because of the .phgreenlight[scale distortion] caused by the anchor .em06[(Mochon & Frederick, 2013)]
+<br>
+<br>
+* Some results of previous research:
+  * Anchoring effects can be found even after a longer period of time .em06[(Mussweiler, 2001; Yoon & Fong, 2019)]
+  * Expertise doesn't prevent from Anchoring necessarily.em06[(Dünnebier et al., 2009)]
+  * tbd
+<br>
+<br>
+* "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" .em06[(Tversky und Kahneman, 1974, p. 9)]
 
+
+???
+- Example Anchoring: Participants in a study (LIT) were asked to estimate how old Ghandi became ... oder direkt Bsp. mit Bildungsbezug?
+- The Anchoring effect has been studied for half a century - nevertheless are the mechanisms behind the effect not completely clarified
+- There are different theories existing how anchoring occurs, for today only one conceivable theory, the scale distortion theory
+- example scale distortion: if the target is to estimate the length of the Mississippi - with an given anchor of 70 Miles the length of 2000 miles seems far too long, but without this, 2000 miles are quite realistic
+
+- in the long run, it's absolutely rational using Anchors as a helpful estimate
+- but overcoming this influence leads to more precise estimations
+- and when we want teachers to engage with evidence, data as well as scientific evidence, we need them to make precise estimations
+- "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
 ---
 class: inverse, center, middle
 
@@ -392,7 +414,7 @@ H<sub>1</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 <br>
 H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the maximum sample size] in the third virtual study.
 
-
+- with the sampling as dependent variables and the anchor options as independent variables
 
 
 ---
@@ -527,6 +549,7 @@ class: inverse, center, middle
 Anchoring effects in .phgreen[data-based decision-making]
 * Benchmarks in national tests (e.g., statewide assessments) might act as an anchor for interpreting the achievement of one's own students resulting in different teaching practices
 * e.g., teaching to the test .em06[(Garner et al., 2017)]
+* Effects in assessments of student performance .em06[(Dünnebier et al., 2009)]
 
 <br>
 
@@ -535,7 +558,7 @@ Anchoring effects in interpreting .phgreen[scientific evidence]
 * &rarr; sample sizes are not the only indicator of quality and validity
 
 ???
-
+* "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
 * vermeintliche Objektivität dieser Methoden, aber auch hier kommen Verzerrungen ins Spiel -> wichtig zu wissen, um darauf eingehen zu können und sie möglicherweise sogar positiv wenden zu können
 * statewide assessments in Germany are...
 
@@ -545,6 +568,7 @@ Anchoring effects in interpreting .phgreen[scientific evidence]
 ---
 ## .phgreenlight[References <i class="fas fa-book-open"></i>]
 
+to-do: updating the list!
 .em08[
 Bromme, R., Prenzel, M., & Jäger, M. (2014). Empirische Bildungsforschung und evidenzbasierte Bildungspolitik. Zeitschrift für Erziehungswissenschaft, 17(4), 3–54. https://doi.org/10.1007/s11618-014-0514-5 <br>
 Brown, C., Macgregor, S., Flood, J., & Malin, J. (2022). Facilitating Research-Informed Educational Practice for Inclusion. Survey Findings From 147 Teachers and School Leaders in England. Frontiers in Education, 7, 890832. https://doi.org/10.3389/feduc.2022.890832 <br>
