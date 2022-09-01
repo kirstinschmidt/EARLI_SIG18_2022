@@ -125,7 +125,7 @@ use_editable(expires = 1)
 <br>
 <br>
 <br>
-.phgreen[Paper Presentation EARLI SIG 18 | 09.09.2022]  
+.phgreen[Paper Presentation EARLI SIG 18 | 07.09.2022]  
 
 ???
 
@@ -163,29 +163,35 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Evidence-Informed School Practice <i class="fas fa-school"></i>]
 
-* Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions .em06[(European Commission of the European Communities, 2007; Schildkamp, 2019)].
+* Teachers are encouraged to consider a great variety of .phgreen[evidence] ranging from .phgreen[formal or informal generated raw data] to .phgreen[results of educational research] in their professional actions .em06[(European Commission of the European Communities, 2007; Schildkamp, 2019)].
 <br>
 <br>
 <br>
-* Both concepts, .phgreenlight[data-based decision-making] and .phgreenlight[research-informed educational practice], can be combined under the overarching approach of .phgreenlight[evidence-informed practice] .em06[(Brown et al., 2017; Brown et al., 2022)].
+* Both concepts, .phgreen[data-based decision-making] and .phgreen[research-informed educational practice], can be combined under the overarching approach of .phgreen[evidence-informed practice] .em06[(Brown et al., 2017; Brown et al., 2022)].
 <br>
 <br>
 <br>
-* Advantages of data-based decision-making .em06[(Mandinach & Schildkamp, 2021)]:
+* Advantages of .phgreen[data-based decision-making] .em06[(Mandinach & Schildkamp, 2021)]:
 <!-- Mit Ablürzungen DBDM & RIEP hantieren oder nicht? --> 
   * Individual data basis
   * Reactions to the subjective needs of the students as well as the specific school situations
 <br>
 <br>
 <br>
-* Advantages of research informed educational practice .em06[(Bromme et al., 2014; Flood & Brown, 2020; Stark, 2017)]:
+* Advantages of .phgreen[research informed educational practice] .em06[(Bromme et al., 2014; Flood & Brown, 2020; Stark, 2017)]:
   * As an external input
   * Critical reflection on professional actions
   * Legitimation and justification of decisions
   
   
 ???
-* Advantages of RIEP
+* Engaging with evidence: Demanded by researchers as well as politics
+* formal (e.g. gradings) & informal data (e.g. observations into the classroom)
+* both concepts can balance each other
+
+* What we don't have in the data itself is a recommended action or the view from outside of the school.
+* Data use can leave blind spots
+* Advantages of RIEP -> uncover these blind spots
   - Because of research as an external input with higher objectiveness...
   - high credibility due to methodological conventions 
   
@@ -198,7 +204,7 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 
-# Anchoring Effect  `r fontawesome::fa_i(name = "anchor")` 
+# Anchoring Effects  `r fontawesome::fa_i(name = "anchor")` 
 
 
 ---
@@ -207,13 +213,13 @@ class: inverse, center, middle
 * Anchoring = a numeric judgment is assimilated to a previous known standard .em06[(Mochon & Frederick, 2013; Tversky & Kahneman, 1974)]
 <br>
 <br>
-* The effect occurs because of the .phgreenlight[scale distortion] caused by the anchor .em06[(Mochon & Frederick, 2013)]
+* The effect occurs because of the .phgreen[scale distortion] caused by the anchor .em06[(Mochon & Frederick, 2013)]
 <br>
 <br>
 * Some results of previous research:
   * Anchoring effects can be found even after a longer period of time .em06[(Mussweiler, 2001; Yoon & Fong, 2019)]
-  * Expertise doesn't prevent from Anchoring necessarily.em06[(Dünnebier et al., 2009)]
-  * tbd
+  * Expertise doesn't necessarily prevent from Anchoring  .em06[(Dünnebier et al., 2009)]
+  * Relevant anchors lead to larger effects than random anchors .em06[(Röseler et al., 2022)]
 <br>
 <br>
 * "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" .em06[(Tversky und Kahneman, 1974, p. 9)]
@@ -227,7 +233,8 @@ class: inverse, center, middle
 
 - in the long run, it's absolutely rational using Anchors as a helpful estimate
 - but overcoming this influence leads to more precise estimations
-- and when we want teachers to engage with evidence, data as well as scientific evidence, we need them to make precise estimations
+- and when we want teachers to engage with evidence, data as well as scientific research, we need them to make precise estimations
+- This leads to the quote of Tversky and Kahneman, whom have most prominently described anchoring effects...
 - "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
 ---
 class: inverse, center, middle
@@ -238,7 +245,7 @@ class: inverse, center, middle
 
 ## .phgreenlight[Sample `r fontawesome::fa_i(name = "users")`]
 
-<center> .phgreenlight[*N* = 68 student teachers from the Karlsruhe University of Education] </center>
+<center> .phgreen[*N* = 68 student teachers from the Karlsruhe University of Education] </center>
 <br>
 <br>
 * 70.59 % female student teachers
@@ -253,13 +260,13 @@ class: inverse, center, middle
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two experimental groups: .phgreenlight[*small anchor*] and .phgreenlight[*small to large anchor*]
+Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor*] and .phgreen[*small to large anchor*]
 
 <img style="vertical-align:middle" src="images/study_one_design_light.pdf">
 
 ???
-- xx
-- yy
+- The task in these experiments was always to sample in a sequential way until the participant was confident that she or he could adequately answer a research question
+- e.g. "Do girls get better grades than boys"
 
 ---
 
@@ -287,8 +294,12 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
     Virtual experiment 3 - open text box]
 
 ???
-- xx
-- yy
+- first example as an exercise
+- participants could sample freely with this open text box: they could write a number in it
+- with the click on the button they got the results in form of a beeswarm plot
+- on the basis of this plot they could decide whether to sample more or if it's enough to answer the research question
+- so they could write numbers in the text box as long as they wanted to sample more
+- same procedure for the second virtual experiment, but with these buttons as given sampling options
 
 
 ---
@@ -316,9 +327,6 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
 .pull-right[<br>
     Virtual experiment 3 - open text box]
 
-???
-- xx
-- yy
 
 ---
 
@@ -339,9 +347,6 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
    </tr>
 </table>
 
-???
-- xx
-- yy
 
 ---
 
@@ -368,15 +373,12 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
 .pull-right[<br>
     Virtual experiment 3 - open text box]
 
-???
-- xx
-- yy
 
 ---
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two experimental groups: .phgreenlight[*small anchor*] and .phgreenlight[*small to large anchor*]
+Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor*] and .phgreen[*small to large anchor*]
 
 <img style="vertical-align:middle" src="images/study_one_design_light.pdf">
 
@@ -414,7 +416,7 @@ H<sub>1</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 <br>
 H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the maximum sample size] in the third virtual study.
 
-- with the sampling as dependent variables and the anchor options as independent variables
+- with the anchor options as independent variables and the sampling as dependent variables 
 
 
 ---
@@ -430,6 +432,9 @@ H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 
 
 ???
+- we compared as first analyses the sampling of the two anchor conditions
+- H1: Our hypothesis is more than a hundred times more likely than the null hypothesis
+-> large anchoring effects on engaging with data
 - wilcoxon-tests and no t-tests because the data is not normally distributed
 - H1: exact BF: 848; W = 215; p-value <.001
 - H2: exact BF: 40.307; W = 289; p-value <.001
@@ -448,7 +453,7 @@ class: inverse, center, middle
 
 ## .phgreenlight[Sample `r fontawesome::fa_i(name = "users")`]
 
-<center> .phgreenlight[*N* = 233 student teachers from the Karlsruhe University of Education] </center>
+<center> .phgreen[*N* = 233 student teachers from the Karlsruhe University of Education] </center>
 <br>
 <br>
 * 85 % female student teachers
@@ -464,7 +469,7 @@ class: inverse, center, middle
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*sample size*]
+Randomized Controlled Trial with two within-person factors .phgreen[*topic of educational research*] and .phgreen[*sample size*]
 
 <img style="vertical-align:middle" src="images/confhindanch_studymaterial_1.png">
 
@@ -541,15 +546,15 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
 
+* DBDM and RIEP are supposed to be objective methods. 
+<!-- Mit Abkürzungen DBDM & RIEP hantieren oder nicht? -->
 * Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence. 
-* DBDM and RIEP are supposed to be objective methods &rarr; important to know about still possible biases
 
 <br>
 
 Anchoring effects in .phgreen[data-based decision-making]
 * Benchmarks in national tests (e.g., statewide assessments) might act as an anchor for interpreting the achievement of one's own students resulting in different teaching practices
-* e.g., teaching to the test .em06[(Garner et al., 2017)]
-* Effects in assessments of student performance .em06[(Dünnebier et al., 2009)]
+* E.g., teaching to the test .em06[(Garner et al., 2017)]
 
 <br>
 
@@ -559,8 +564,10 @@ Anchoring effects in interpreting .phgreen[scientific evidence]
 
 ???
 * "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
+* DBDM and RIEP are supposed to be objective methods -> important to know about still possible biases
 * vermeintliche Objektivität dieser Methoden, aber auch hier kommen Verzerrungen ins Spiel -> wichtig zu wissen, um darauf eingehen zu können und sie möglicherweise sogar positiv wenden zu können
 * statewide assessments in Germany are...
+* another example for DBDM: * Effects in assessments of student performance .em06[(Dünnebier et al., 2009)]
 
 Überlegungen für Rückfragen
 - mediator
