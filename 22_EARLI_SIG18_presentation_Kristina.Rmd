@@ -115,37 +115,43 @@ use_editable(expires = 1)
 ## .phgreenlight[Two Studies, one Result: Student Teachers are Biased by Anchors When Engaging With Evidence]
 <br>
 
-.em13[Kirstin Schmidt<sup>1</sup>.white[<sup>†</sup>], Kristina Bohrer<sup>1</sup><sup>†</sup> and Samuel Merk<sup>1</sup>]
+.em13[Kirstin Schmidt<sup>1</sup>.white[<sup>2</sup>], Kristina Bohrer<sup>1</sup><sup>2</sup> and Samuel Merk<sup>1</sup>]
 
 
 <sup>1</sup> Karlsruhe University of Education <br>
-<sup>†</sup> presenting authors <br>
+<sup>2</sup> presenting authors <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-.phgreen[Paper Presentation EARLI SIG 18 | 09.09.2022] 
+.phgreen[Paper Presentation EARLI SIG 18 | 07.09.2022]  
 
 ???
-@Samuel: Wie bekommen wir * anstelle der † ohne dass der Text italic wird?
+
 
 ---
 
 
 ## .phgreenlight[Structure `r fontawesome::fa_i(name = "list-ul")`]
 * Evidence-Informed School Practice <i class="fas fa-school"></i>
+
 * Anchoring Effects `r fontawesome::fa_i(name = "anchor")`
+
 * Study 1: Anchoring Effects in  Engagement With Data <i class="fas fa-search"></i>
-  * Research Question <i class="fas fa-question"></i>
   * Sample `r fontawesome::fa_i(name = "users")`
   * Design and Materials `r fontawesome::fa_i(name = "align-left")`
+  * Hypotheses <i class="fas fa-question"></i>
   * Results <i class="far fa-chart-bar"></i>
+  
 * Study 2: Anchoring Effects in Interpreting Scientific Evidence <i class="fas fa-search"></i>
   * Sample `r fontawesome::fa_i(name = "users")`
   * Design and Materials `r fontawesome::fa_i(name = "align-left")`
+  * Hypothesis <i class="fas fa-question"></i>
   * Results <i class="far fa-chart-bar"></i>
+
 * Discussion <i class="fab fa-weixin"></i>
+
 * References <i class="fas fa-book-open"></i>
 
 
@@ -157,26 +163,35 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Evidence-Informed School Practice <i class="fas fa-school"></i>]
 
-* Teachers are encouraged to consider a great variety of .phgreenlight[evidence] ranging from .phgreenlight[formal or informal generated raw data] to .phgreenlight[results of educational research] in their professional actions (European Commission of the European Communities, 2007; Schildkamp, 2019).
+* Teachers are encouraged to consider a great variety of .phgreen[evidence] ranging from .phgreen[formal or informal generated raw data] to .phgreen[results of educational research] in their professional actions .em06[(European Commission of the European Communities, 2007; Schildkamp, 2019)].
 <br>
 <br>
-* Both concepts, .phgreenlight[data-based decision-making] and .phgreenlight[research-informed educational practice], can be combined under the overarching approach of .phgreenlight[evidence-informed practice] (Brown et al., 2017; Brown et al., 2022).
+<br>
+* Both concepts, .phgreen[data-based decision-making] and .phgreen[research-informed educational practice], can be combined under the overarching approach of .phgreen[evidence-informed practice] .em06[(Brown et al., 2017; Brown et al., 2022)].
 <br>
 <br>
-* Advantages of DBDM (Mandinach & Schildkamp, 2021):
+<br>
+* Advantages of .phgreen[data-based decision-making] .em06[(Mandinach & Schildkamp, 2021)]:
+<!-- Mit Ablürzungen DBDM & RIEP hantieren oder nicht? --> 
   * Individual data basis
   * Reactions to the subjective needs of the students as well as the specific school situations
-  * ...
 <br>
 <br>
-* Advantages of RIEP (Bromme et al., 2014; Flood & Brown, 2020; Stark, 2017):
+<br>
+* Advantages of .phgreen[research informed educational practice] .em06[(Bromme et al., 2014; Flood & Brown, 2020; Stark, 2017)]:
   * As an external input
   * Critical reflection on professional actions
   * Legitimation and justification of decisions
   
   
 ???
-* Advantages of RIEP
+* Engaging with evidence: Demanded by researchers as well as politics
+* formal (e.g. gradings) & informal data (e.g. observations into the classroom)
+* both concepts can balance each other
+
+* What we don't have in the data itself is a recommended action or the view from outside of the school.
+* Data use can leave blind spots
+* Advantages of RIEP -> uncover these blind spots
   - Because of research as an external input with higher objectiveness...
   - high credibility due to methodological conventions 
   
@@ -189,14 +204,38 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 
-# Anchoring Effects `r fontawesome::fa_i(name = "anchor")` 
+# Anchoring Effects  `r fontawesome::fa_i(name = "anchor")` 
 
 
 ---
-## .phgreenlight[Anchoring Effects`r fontawesome::fa_i(name = "anchor")`]
+## .phgreenlight[Anchoring Effects `r fontawesome::fa_i(name = "anchor")`]
 
-*  a numeric judgment is assimilated to a previous known standard (Mochon & Frederick, 2013; Tversky & Kahneman, 1974)
+* Anchoring = a numeric judgment is assimilated to a previous known standard .em06[(Mochon & Frederick, 2013; Tversky & Kahneman, 1974)]
+<br>
+<br>
+* The effect occurs because of the .phgreen[scale distortion] caused by the anchor .em06[(Mochon & Frederick, 2013)]
+<br>
+<br>
+* Some results of previous research:
+  * Anchoring effects can be found even after a longer period of time .em06[(Mussweiler, 2001; Yoon & Fong, 2019)] 
+  * Expertise does not necessarily prevent from Anchoring .em06[(Dünnebier et al., 2009)]
+  * Relevant anchors lead to larger effects than random anchors .em06[(Röseler et al., 2022)]
+<br>
+<br>
+* "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty". .em06[(Tversky und Kahneman, 1974, p. 9)]
 
+
+???
+- Example Anchoring: Participants in a study (LIT) were asked to estimate how old Ghandi became ... oder direkt Bsp. mit Bildungsbezug?
+- The Anchoring effect has been studied for half a century - nevertheless are the mechanisms behind the effect not completely clarified
+- There are different theories existing how anchoring occurs, for today only one conceivable theory, the scale distortion theory
+- example scale distortion: if the target is to estimate the length of the Mississippi - with an given anchor of 70 Miles the length of 2000 miles seems far too long, but without this, 2000 miles are quite realistic
+
+- in the long run, it's absolutely rational using Anchors as a helpful estimate
+- but overcoming this influence leads to more precise estimations
+- and when we want teachers to engage with evidence, data as well as scientific research, we need them to make precise estimations
+- This leads to the quote of Tversky and Kahneman, whom have most prominently described anchoring effects...
+- "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
 ---
 class: inverse, center, middle
 
@@ -206,7 +245,7 @@ class: inverse, center, middle
 
 ## .phgreenlight[Sample `r fontawesome::fa_i(name = "users")`]
 
-<center> .phgreenlight[*N* = 68 student teachers from the Karlsruhe University of Education] </center>
+<center> .phgreen[*N* = 68 student teachers from the Karlsruhe University of Education] </center>
 <br>
 <br>
 * 70.59 % female student teachers
@@ -221,7 +260,88 @@ class: inverse, center, middle
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two experimental groups: .phgreenlight[*small anchor*] and .phgreenlight[*small to large anchor*]
+Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor*] and .phgreen[*small to large anchor*]
+
+<img style="vertical-align:middle" src="images/study_one_design_light.pdf">
+
+???
+- The task in these experiments was always to sample in a sequential way until the participant was confident that she or he could adequately answer a research question
+- e.g. "Do girls get better grades than boys"
+
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+<table>
+  <tr>
+    <td><img src="images/study1_exp.1.png" width="600px"></td>
+    <td>Virtual experiment 1 - open text box</td>
+  
+  <tr>
+    <td><img src="images/study1_exp.2_small.png" width="600px"></td>
+    <td>Virtual experiment 2 - Intervention group 1 with small sampling options</td>
+
+<tr>
+    <td><img src="images/study1_exp.3.png" width="600px"></td>
+    <td>Virtual experiment 3 - open text box</td>
+   </tr>
+</table>
+
+???
+- first example as an exercise
+- participants could sample freely with this open text box: they could write a number in it
+- with the click on the button they got the results in form of a beeswarm plot
+- on the basis of this plot they could decide whether to sample more or if it's enough to answer the research question
+- so they could write numbers in the text box as long as they wanted to sample more
+- same procedure for the second virtual experiment, but with these buttons as given sampling options
+
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+<table>
+  <tr>
+    <td><img src="images/study1_exp.1.png" width="600px"></td>
+    <td>Virtual experiment 1 - open text box</td>
+  
+  <tr>
+    <td><img src="images/study1_exp.2_small_to_large.png" width="600px"></td>
+    <td>Virtual experiment 2 - Intervention group 2 with small to large sampling options</td>
+
+<tr>
+    <td><img src="images/study1_exp.3.png" width="600px"></td>
+    <td>Virtual experiment 3 - open text box</td>
+   </tr>
+</table>
+
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+<table>
+  <tr>
+    <td><img src="images/study1_exp.1.png" width="600px"></td>
+    <td>Virtual experiment 1 - open text box</td>
+  
+  <tr>
+    <td><img src="images/study1_exp.2_text.png" width="600px"></td>
+    <td>Virtual experiment 2 - Control group with open text box</td>
+
+<tr>
+    <td><img src="images/study1_exp.3.png" width="600px"></td>
+    <td>Virtual experiment 3 - open text box</td>
+   </tr>
+</table>
+
+
+---
+
+## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
+
+Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor*] and .phgreen[*small to large anchor*]
 
 <img style="vertical-align:middle" src="images/study_one_design_light.pdf">
 
@@ -230,30 +350,17 @@ Randomized Controlled Trial with two experimental groups: .phgreenlight[*small a
 - yy
 
 ---
-
-## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
-
-<img src="images/materials_study1_text.png"
-     width="600px"
-     style="vertical-align:middle">
-     
-<img src="images/materials_study1_small_to_large_anchor.png"
-    width="600px"
-    style="vertical-align:middle">
-
-???
-- to-do@Marc: Screenshots übersetzen
-- yy
-
----
 ## .phgreenlight[Hypotheses]
 
-H<sub>1</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the size of the initial sampling] in the third virtual study. <br> 
-<!-- Das ist übrigens die Kommentarfunktion :-) -->
 <br>
-<br>
-H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the maximum sample size] in the third virtual study.
 
+H<sub>1</sub>: .phgreen[Small sampling options] in the second experiment (working as a small anchor) .phgreen[are leading to smaller initial samplings] in the third experiment than small to large sampling options (working as a small to large anchor).
+
+<br>
+
+H<sub>2</sub>: .phgreen[Small sampling options] in the second experiment (working as a small anchor) .phgreen[are leading to smaller maximum samplings] in the third experiment than small to large sampling options (working as a small to large anchor).
+
+<br>
 <br>
 
 *<center> H<sub>1</sub>:  µ<sub>small samples</sub> < µ<sub>small to large samples</sub> <br> H<sub>2</sub>:  µ<sub>small samples</sub> < µ<sub>small to large samples</sub> </center>*
@@ -264,8 +371,15 @@ H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 <br>
 
 ???
-- xx
-- yy
+Student teachers getting small sampling options in the second virtual experiment are choosing smaller sample sizes in the third virtual experiment than the student teachers getting small to large sampling options in den second experiment.
+
+H<sub>1</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the size of the initial sampling] in the third virtual study. <br> 
+<!-- Das ist übrigens die Kommentarfunktion :-) -->
+<br>
+<br>
+H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the maximum sample size] in the third virtual study.
+
+- with the anchor options as independent variables and the sampling as dependent variables 
 
 
 ---
@@ -281,6 +395,12 @@ H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 
 
 ???
+- we compared as first analyses the sampling of the two anchor conditions
+- H1: Our hypothesis is more than a hundred times more likely than the null hypothesis
+-> large anchoring effects on engaging with data
+- wilcoxon-tests and no t-tests because the data is not normally distributed
+- H1: exact BF: 848; W = 215; p-value <.001
+- H2: exact BF: 40.307; W = 289; p-value <.001
 
 ---
 class: inverse, center, middle
@@ -290,26 +410,31 @@ class: inverse, center, middle
 
 ???
 
-Research Question <i class="fas fa-question"></i>
+- in the second study we again analyzed anchoring effects, but this time we analyzed whether they influence student teachers' interpretation of scientific evidence or more specifically the appropriateness of the sample size
 
 ---
 
 ## .phgreenlight[Sample `r fontawesome::fa_i(name = "users")`]
 
-<center> .phgreenlight[*N* = 233 student teachers from the Karlsruhe University of Education] </center>
-
+<center> .phgreen[*N* = 233 student teachers from the Karlsruhe University of Education] </center>
+<br>
+<br>
 * 85 % female student teachers
-* M<sub>semesters</sub> = 3.4
-* subjects?
+<br>
+<br>
+* M<sub>semesters</sub> = 3.36 (*SD* = 1.28)
+<br>
+<br>
+* 70.81 % of the students studied at least one STEM subject
 
 
 ---
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*sample size*]
+Randomized Controlled Trial with two within-person factors .phgreen[*topic of educational research*] and .phgreen[*sample size*]
 
-<img style="vertical-align:middle" src="images/Confhindanch_study_material_1.jpg">
+<img style="vertical-align:middle" src="images/confhindanch_studymaterial_1.png">
 
 ???
 - each participant presented with two study reports on different topics from educational research sequentially and in randomized order
@@ -323,9 +448,9 @@ Randomized Controlled Trial with two within-person factors .phgreenlight[*topic 
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*sample size*]
+Randomized Controlled Trial with two within-person factors .phgreen[*topic of educational research*] and .phgreen[*sample size*]
 
-<img style="vertical-align:middle" src="images/Confhindanch_study_material.jpg">
+<img style="vertical-align:middle" src="images/confhindanch_studymaterial_2.png">
 
 ???
 - after participants have read the report, decided, among others, whether ‘the investigated sample size of students (either N = 15 or N = 500) in the presented study is appropriate to answer the research question’ using a Likert scale ranging from 1 = totally disagree to 7 = totally agree
@@ -334,7 +459,6 @@ Randomized Controlled Trial with two within-person factors .phgreenlight[*topic 
 
 ???
 
-hier im Material dann auch statt adquate - appropriate schreiben?
 
 ---
 ## .phgreenlight[Hypothesis]
@@ -346,24 +470,23 @@ c) Taking into account the appropriateness rating of sample size 1, there is .ph
 
 <br>
 
-*<center> H<sub>1</sub>:  µ<sub>exp.group1</sub> > µ<sub>exp.group2</sub> & µ<sub>con.group1</sub>=µ<sub>con.group2</sub> </center>*
+*<center> H<sub>1</sub>:  µ<sub>EG1</sub> > µ<sub>EG2</sub> & µ<sub>CG1</sub>=µ<sub>CG2</sub> </center>*
 
 <br>
 <br>
 <br>
 <br>
 
-experimental group 1: N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
-experimental group 2: N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
-control group 1: N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
-control group 2: N<sub>1</sub>=500, N<sub>2</sub>=500
+experimental group 1 (EG1): N<sub>1</sub>=15 (small anchor), N<sub>2</sub>=500 <br>
+experimental group 2 (EG2): N<sub>1</sub>=500 (large anchor), N<sub>2</sub>=15 <br>
+control group 1 (CG1): N<sub>1</sub>=15, N<sub>2</sub>=15 <br>
+control group 2 (CG1): N<sub>1</sub>=500, N<sub>2</sub>=500
 
 
 ???
 b)  The student teachers rate the sample size 2 as less appropriate if first presented with a large sample size (N<sub>1</sub>=500) and afterwards with a small sample size (N<sub>2</sub>=15) than vice versa. <br>
-wie formuliere ich das am besten als eine informative Hypothese
 
-ahh hier fehlt die kontrolle 
+
 ---
 
 class: hide_logo
@@ -372,8 +495,9 @@ background-size: contain
 
 
 ???
-
 - to analyze whether the sample size presented in the first report acted as an anchor for assessing the adequacy of the sample size in the second report, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one
+- d for differences in EGs: 2.97
+- d for differences in CGs: 0.29
 ---
 class: inverse, center, middle
 
@@ -382,36 +506,54 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
 
-* Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence 
+* DBDM and RIEP are supposed to be objective methods. 
+<!-- Mit Abkürzungen DBDM & RIEP hantieren oder nicht? -->
+* Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence. 
 
-Anchoring effects in data-based decision making....
-* ...
-* ...
+<br>
 
-Anchoring effects in interpreting scientific evidence
+Anchoring effects in .phgreen[data-based decision-making]
+* Benchmarks in national tests (e.g., statewide assessments) might act as an anchor for interpreting the achievement of one's own students resulting in different teaching practices
+* E.g., teaching to the test .em06[(Garner et al., 2017)]
+
+<br>
+
+Anchoring effects in interpreting .phgreen[scientific evidence]
 * Large-scale assessments (e.g., PISA) might act as an anchor resulting in a devaluation of scientific evidence based on smaller sample sizes 
-  * sample sizes are not indicator of quality and validity
-* mediator ?
+* &rarr; sample sizes are not the only indicator of quality and validity
 
-* Limitations
+???
+* "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
+* DBDM and RIEP are supposed to be objective methods -> important to know about still possible biases
+* vermeintliche Objektivität dieser Methoden, aber auch hier kommen Verzerrungen ins Spiel -> wichtig zu wissen, um darauf eingehen zu können und sie möglicherweise sogar positiv wenden zu können
+* statewide assessments in Germany are...
+* another example for DBDM: * Effects in assessments of student performance .em06[(Dünnebier et al., 2009)]
+
+Überlegungen für Rückfragen
+- mediator
+- limitations 
 ---
 ## .phgreenlight[References <i class="fas fa-book-open"></i>]
 
 .em08[
-Bromme, R., & Goldman, S. R. (2014). The public’s bounded understanding of science. Educational Psychologist, 49(2), 59–69. https://doi.org/10.1080/00461520.2014.921572 <br>
-Bromme, R., Kienhues, D., & Porsch, T. (2010). Who knows what and who can we believe? Epistemological beliefs are beliefs about knowledge (mostly) to be attained from others. In L. D. Bendixen & F. C. Feucht (Eds.), Personal epistemology in the classroom (pp. 163–194). Cambridge University Press. https://doi.org/10.1017/CBO9780511691904.006 <br>
+Bromme, R., Prenzel, M., & Jäger, M. (2014). Empirische Bildungsforschung und evidenzbasierte Bildungspolitik. Zeitschrift für Erziehungswissenschaft, 17(4), 3–54. https://doi.org/10.1007/s11618-014-0514-5 <br>
+Brown, C., Macgregor, S., Flood, J., & Malin, J. (2022). Facilitating Research-Informed Educational Practice for Inclusion. Survey Findings From 147 Teachers and School Leaders in England. Frontiers in Education, 7, 890832. https://doi.org/10.3389/feduc.2022.890832 <br>
 Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. Educational Research, 59(2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
-Hoijtink, H., Mulder, J., van Lissa, C., & Gu, X. (2019). A tutorial on testing hypotheses using the Bayes factor. Psychological Methods, 24(5), 539–556.https://doi.org/10.1037/met0000201 <br>
-Kühberger, A., Fritz, A., Lermer, E., & Scherndl, T. (2015). The significance fallacy in inferential statistics. BMC Research Notes, 8(1), 84. https://doi.org/10.1186/s13104-015-1020-4 
+Dünnebier, K., Gräsel, C., & Krolak-Schwerdt, S. (2009). Urteilsverzerrungen in der schulischen Leistungsbeurteilung. Eine experimentelle Studie zu Ankereffekten. In Zeitschrift für pädagogische Psychologie (Bd. 23, Nummern 3–4, S. 187–195). <br>
+European Commission of the European Communities. (2007). Communication from the Commission to the Council and the European Parliament. Improving the Quality of Teacher Education (Nr. 392). https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52007DC0392&from=EN <br>
+Flood, J., & Brown, C. (2020). Exploring Teachers’ Conceptual Uses of Research as Part of the Development and Scale up of Research-Informed Practices. International Journal of Education Policy and Leadership, 16(10), Article 10. https://doi.org/10.22230/ijepl.2020v16n10a927 <br>
+Garner, B., Thorne, J. K., & Horn, I. S. (2017). Teachers interpreting data for instructional decisions: Where does equity come in? Journal of Educational Administration, 55(4), 407–426. https://doi.org/10.1108/JEA-09-2016-0106 <br>
+Mandinach, E. B., & Schildkamp, K. (2021). Misconceptions about data-based decision making in education: An exploration of the literature. Studies in Educational Evaluation, 69, 1–10. https://doi.org/10.1016/j.stueduc.2020.100842 <br>
+Mochon, D., & Frederick, S. (2013). Anchoring in sequential judgments. Organizational Behavior and Human Decision Processes, 122(1), 69–79. https://doi.org/10.1016/j.obhdp.2013.04.002 <br>
+Mussweiler, T. (2001). The durability of anchoring effects. European Journal of Social Psychology, 31(4), 431–442. https://doi.org/10.1002/ejsp.52 <br>
+Röseler, L., & Schütz, A. (2022). Hanging the Anchor Off a New Ship: A Meta-Analysis of Anchoring Effects. PsyArXiv. https://doi.org/10.31234/osf.io/wf2tn <br>
+Schildkamp, K. (2019). Data-based decision-making for school improvement: Research insights and gaps. Educational Research, 61(3), 257–273. https://doi.org/10.1080/00131881.2019.1625716 <br>
+Stark, R. (2017). Probleme evidenzbasierter bzw. -Orientierter pädagogischer Praxis. Zeitschrift für Pädagogische Psychologie, 31(2), 99–110. https://doi.org/10.1024/1010-0652/a000201 <br>
+Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. Science, 185(4157), 1124–1131. <br>
+Yoon, S., & Fong, N. (2019). Uninformative Anchors Have Persistent Effects on Valuation Judgments. Journal of Consumer Psychology, 29(3), 391–410. https://doi.org/10.1002/jcpy.1091
 ]
 
----
 
-## .phgreenlight[Referenzen <i class="fas fa-book-open"></i>]
-
-.em08[
-...
-]
 ---
 class: inverse, center, middle
 

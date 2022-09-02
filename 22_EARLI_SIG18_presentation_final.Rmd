@@ -268,30 +268,25 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 - The task in these experiments was always to sample in a sequential way until the participant was confident that she or he could adequately answer a research question
 - e.g. "Do girls get better grades than boys"
 
+
 ---
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-.pull-left[
-    <img src="images/study1_exp.1.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[<br>
-    Virtual experiment 1 - open text box]
-     
-.pull-left[
-    <img src="images/study1_exp.2_small.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[ <br>
-    Virtual experiment 2 - Intervention group 1 with small sampling options]
-     
-.pull-left[
-    <img src="images/study1_exp.3.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[<br>
-    Virtual experiment 3 - open text box]
+<table>
+  <tr>
+    <td><img src="images/study1_exp.1.png" width="600px"></td>
+    <td>Virtual experiment 1 - open text box</td>
+  
+  <tr>
+    <td><img src="images/study1_exp.2_small.png" width="600px"></td>
+    <td>Virtual experiment 2 - Intervention group 1 with small sampling options</td>
+
+<tr>
+    <td><img src="images/study1_exp.3.png" width="600px"></td>
+    <td>Virtual experiment 3 - open text box</td>
+   </tr>
+</table>
 
 ???
 - first example as an exercise
@@ -300,32 +295,6 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 - on the basis of this plot they could decide whether to sample more or if it's enough to answer the research question
 - so they could write numbers in the text box as long as they wanted to sample more
 - same procedure for the second virtual experiment, but with these buttons as given sampling options
-
-
----
-
-## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
-
-.pull-left[
-    <img src="images/study1_exp.1.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[<br>
-    Virtual experiment 1 - open text box]
-     
-.pull-left[
-    <img src="images/study1_exp.2_small_to_large.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[ <br>
-    Virtual experiment 2 - Intervention group 2 with small to large sampling options]
-     
-.pull-left[
-    <img src="images/study1_exp.3.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[<br>
-    Virtual experiment 3 - open text box]
 
 
 ---
@@ -352,26 +321,20 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-.pull-left[
-    <img src="images/study1_exp.1.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[<br>
-    Virtual experiment 1 - open text box]
-     
-.pull-left[
-    <img src="images/study1_exp.2_text.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[ <br>
-    Virtual experiment 2 - Control group with open text box]
-     
-.pull-left[
-    <img src="images/study1_exp.3.png"
-     width="450px"
-     style="vertical-align:middle">]
-.pull-right[<br>
-    Virtual experiment 3 - open text box]
+<table>
+  <tr>
+    <td><img src="images/study1_exp.1.png" width="600px"></td>
+    <td>Virtual experiment 1 - open text box</td>
+  
+  <tr>
+    <td><img src="images/study1_exp.2_text.png" width="600px"></td>
+    <td>Virtual experiment 2 - Control group with open text box</td>
+
+<tr>
+    <td><img src="images/study1_exp.3.png" width="600px"></td>
+    <td>Virtual experiment 3 - open text box</td>
+   </tr>
+</table>
 
 
 ---
@@ -572,19 +535,22 @@ Anchoring effects in interpreting .phgreen[scientific evidence]
 ---
 ## .phgreenlight[References <i class="fas fa-book-open"></i>]
 
-to-do: updating the list!
 .em08[
 Bromme, R., Prenzel, M., & Jäger, M. (2014). Empirische Bildungsforschung und evidenzbasierte Bildungspolitik. Zeitschrift für Erziehungswissenschaft, 17(4), 3–54. https://doi.org/10.1007/s11618-014-0514-5 <br>
 Brown, C., Macgregor, S., Flood, J., & Malin, J. (2022). Facilitating Research-Informed Educational Practice for Inclusion. Survey Findings From 147 Teachers and School Leaders in England. Frontiers in Education, 7, 890832. https://doi.org/10.3389/feduc.2022.890832 <br>
 Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. Educational Research, 59(2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
+Dünnebier, K., Gräsel, C., & Krolak-Schwerdt, S. (2009). Urteilsverzerrungen in der schulischen Leistungsbeurteilung. Eine experimentelle Studie zu Ankereffekten. In Zeitschrift für pädagogische Psychologie (Bd. 23, Nummern 3–4, S. 187–195). <br>
 European Commission of the European Communities. (2007). Communication from the Commission to the Council and the European Parliament. Improving the Quality of Teacher Education (Nr. 392). https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52007DC0392&from=EN <br>
 Flood, J., & Brown, C. (2020). Exploring Teachers’ Conceptual Uses of Research as Part of the Development and Scale up of Research-Informed Practices. International Journal of Education Policy and Leadership, 16(10), Article 10. https://doi.org/10.22230/ijepl.2020v16n10a927 <br>
 Garner, B., Thorne, J. K., & Horn, I. S. (2017). Teachers interpreting data for instructional decisions: Where does equity come in? Journal of Educational Administration, 55(4), 407–426. https://doi.org/10.1108/JEA-09-2016-0106 <br>
 Mandinach, E. B., & Schildkamp, K. (2021). Misconceptions about data-based decision making in education: An exploration of the literature. Studies in Educational Evaluation, 69, 1–10. https://doi.org/10.1016/j.stueduc.2020.100842 <br>
 Mochon, D., & Frederick, S. (2013). Anchoring in sequential judgments. Organizational Behavior and Human Decision Processes, 122(1), 69–79. https://doi.org/10.1016/j.obhdp.2013.04.002 <br>
+Mussweiler, T. (2001). The durability of anchoring effects. European Journal of Social Psychology, 31(4), 431–442. https://doi.org/10.1002/ejsp.52 <br>
+Röseler, L., & Schütz, A. (2022). Hanging the Anchor Off a New Ship: A Meta-Analysis of Anchoring Effects. PsyArXiv. https://doi.org/10.31234/osf.io/wf2tn <br>
 Schildkamp, K. (2019). Data-based decision-making for school improvement: Research insights and gaps. Educational Research, 61(3), 257–273. https://doi.org/10.1080/00131881.2019.1625716 <br>
 Stark, R. (2017). Probleme evidenzbasierter bzw. -Orientierter pädagogischer Praxis. Zeitschrift für Pädagogische Psychologie, 31(2), 99–110. https://doi.org/10.1024/1010-0652/a000201 <br>
-Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. Science, 185(4157), 1124–1131.
+Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. Science, 185(4157), 1124–1131. <br>
+Yoon, S., & Fong, N. (2019). Uninformative Anchors Have Persistent Effects on Valuation Judgments. Journal of Consumer Psychology, 29(3), 391–410. https://doi.org/10.1002/jcpy.1091
 ]
 
 
