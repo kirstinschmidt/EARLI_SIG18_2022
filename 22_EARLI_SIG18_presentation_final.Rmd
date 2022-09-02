@@ -217,8 +217,11 @@ class: inverse, center, middle
 <br>
 <br>
 * Some results of previous research:
-  * Anchoring effects can be found even after a longer period of time .em06[(Mussweiler, 2001; Yoon & Fong, 2019)]
-  * Expertise doesn't necessarily prevent from Anchoring  .em06[(Dünnebier et al., 2009)]
+  * Anchoring effects can be found even after a longer period of time .em06[(Mussweiler, 2001; Yoon & Fong, 2019)] 
+  
+<!-- was ist damit gemeint? --> 
+
+  * Expertise does not necessarily prevent from Anchoring  .em06[(Dünnebier et al., 2009)]
   * Relevant anchors lead to larger effects than random anchors .em06[(Röseler et al., 2022)]
 <br>
 <br>
@@ -485,7 +488,7 @@ Randomized Controlled Trial with two within-person factors .phgreen[*topic of ed
 
 ## .phgreenlight[Design and Materials `r fontawesome::fa_i(name = "align-left")`]
 
-Randomized Controlled Trial with two within-person factors .phgreenlight[*topic of educational research*] and .phgreenlight[*sample size*]
+Randomized Controlled Trial with two within-person factors .phgreen[*topic of educational research*] and .phgreen[*sample size*]
 
 <img style="vertical-align:middle" src="images/confhindanch_studymaterial_2.png">
 
@@ -496,9 +499,6 @@ Randomized Controlled Trial with two within-person factors .phgreenlight[*topic 
 
 ???
 
-hier im Material dann auch statt adquate - appropriate schreiben?
-
-neuer test 
 
 ---
 ## .phgreenlight[Hypothesis]
@@ -525,9 +525,8 @@ control group 2 (CG1): N<sub>1</sub>=500, N<sub>2</sub>=500
 
 ???
 b)  The student teachers rate the sample size 2 as less appropriate if first presented with a large sample size (N<sub>1</sub>=500) and afterwards with a small sample size (N<sub>2</sub>=15) than vice versa. <br>
-wie formuliere ich das am besten als eine informative Hypothese
 
-ahh hier fehlt die kontrolle 
+
 ---
 
 class: hide_logo
@@ -536,8 +535,9 @@ background-size: contain
 
 
 ???
-- Frage @Samuel: passt die Skalierung?
 - to analyze whether the sample size presented in the first report acted as an anchor for assessing the adequacy of the sample size in the second report, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one
+- d for differences in EGs: 2.97
+- d for differences in CGs: 0.29
 ---
 class: inverse, center, middle
 
