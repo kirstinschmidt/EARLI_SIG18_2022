@@ -218,14 +218,11 @@ class: inverse, center, middle
 <br>
 * Some results of previous research:
   * Anchoring effects can be found even after a longer period of time .em06[(Mussweiler, 2001; Yoon & Fong, 2019)] 
-  
-<!-- was ist damit gemeint? --> 
-
-  * Expertise does not necessarily prevent from Anchoring  .em06[(Dünnebier et al., 2009)]
+  * Expertise does not necessarily prevent from Anchoring .em06[(Dünnebier et al., 2009)]
   * Relevant anchors lead to larger effects than random anchors .em06[(Röseler et al., 2022)]
 <br>
 <br>
-* "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" .em06[(Tversky und Kahneman, 1974, p. 9)]
+* "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty". .em06[(Tversky und Kahneman, 1974, p. 9)]
 
 
 ???
