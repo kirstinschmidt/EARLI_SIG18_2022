@@ -226,7 +226,8 @@ class: inverse, center, middle
 
 
 ???
-- Example Anchoring: Participants in a study (LIT) were asked to estimate how old Ghandi became ... oder direkt Bsp. mit Bildungsbezug?
+- Example Anchoring: Participants in an experiment were asked to estimate how old Gandhi became (Strack & Mussweiler, 1997) ...oder direkt Bsp. mit Bildungsbezug?
+  - before their estimations, one group got an anchor of 9 (estimation: 50) and the other of 140 (estimation: 67) ....
 - The Anchoring effect has been studied for half a century - nevertheless are the mechanisms behind the effect not completely clarified
 - There are different theories existing how anchoring occurs, for today only one conceivable theory, the scale distortion theory
 - example scale distortion: if the target is to estimate the length of the Mississippi - with an given anchor of 70 Miles the length of 2000 miles seems far too long, but without this, 2000 miles are quite realistic
@@ -265,9 +266,11 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 <img style="vertical-align:middle" src="images/study_one_design_light.pdf">
 
 ???
+- We conducted a randomized controlled trial with two experimental groups...
+- Participants were guided through 3 virtual experiments
 - The task in these experiments was always to sample in a sequential way until the participant was confident that she or he could adequately answer a research question
 - e.g. "Do girls get better grades than boys"
-
+- Before we go through the whole figure, let me show you concretely how these experiments look
 
 ---
 
@@ -289,12 +292,14 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 </table>
 
 ???
-- first example as an exercise
+- these are screenshots of each of the three experiments, sorry that they are in german but...
+- first experiment as an example for exercise
 - participants could sample freely with this open text box: they could write a number in it
 - with the click on the button they got the results in form of a beeswarm plot
 - on the basis of this plot they could decide whether to sample more or if it's enough to answer the research question
-- so they could write numbers in the text box as long as they wanted to sample more
+- so they could write numbers in the text box as long as they wanted to sample more -> sequential sampling
 - same procedure for the second virtual experiment, but with these buttons as given sampling options
+- third experiment again with an open text box
 
 
 ---
@@ -316,6 +321,8 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
    </tr>
 </table>
 
+???
+- actually the same but with other buttons
 
 ---
 
@@ -336,6 +343,9 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
    </tr>
 </table>
 
+???
+- and finally the control group, only with open text boxes
+- also in the second experiment
 
 ---
 
@@ -346,8 +356,11 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 <img style="vertical-align:middle" src="images/study_one_design_light.pdf">
 
 ???
-- xx
-- yy
+- I have shown you these three experiments
+- What you can see here additionally is, that exp. 2 & 3 were about educational topics
+- And with these buttons in the second virtual experiment we set the anchor
+- With these, we hypothesized that the anchors have an influence on the sampling in the third experiment
+- More precisely, on the intital sampling (the first number the praticipants wrote in the open text box) and on the maximum cumulated sampling (all numbers added together)
 
 ---
 ## .phgreenlight[Hypotheses]
@@ -371,14 +384,6 @@ H<sub>2</sub>: .phgreen[Small sampling options] in the second experiment (workin
 <br>
 
 ???
-Student teachers getting small sampling options in the second virtual experiment are choosing smaller sample sizes in the third virtual experiment than the student teachers getting small to large sampling options in den second experiment.
-
-H<sub>1</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the size of the initial sampling] in the third virtual study. <br> 
-<!-- Das ist übrigens die Kommentarfunktion :-) -->
-<br>
-<br>
-H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to large samples) .phgreen[influence as an anchor the maximum sample size] in the third virtual study.
-
 - with the anchor options as independent variables and the sampling as dependent variables 
 
 
@@ -395,9 +400,12 @@ H<sub>2</sub>: The given .phgreen[sampling options] (small samples vs. small to 
 
 
 ???
-- we compared as first analyses the sampling of the two anchor conditions
+- We compared as first analyses the sampling of the two anchor conditions
+- We conducted Bayesian Wilcoxon-tests, with large effects for both of our hypotheses
+- great evidence for our hypotheses
 - H1: Our hypothesis is more than a hundred times more likely than the null hypothesis
 -> large anchoring effects on engaging with data
+
 - wilcoxon-tests and no t-tests because the data is not normally distributed
 - H1: exact BF: 848; W = 215; p-value <.001
 - H2: exact BF: 40.307; W = 289; p-value <.001
