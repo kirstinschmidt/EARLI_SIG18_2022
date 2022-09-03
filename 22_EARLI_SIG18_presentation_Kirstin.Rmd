@@ -498,6 +498,7 @@ background-size: contain
 - to analyze whether the sample size presented in the first report acted as an anchor for assessing the adequacy of the sample size in the second report, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one
 - d for differences in EGs: 2.97
 - d for differences in CGs: 0.29
+- test
 ---
 class: inverse, center, middle
 
