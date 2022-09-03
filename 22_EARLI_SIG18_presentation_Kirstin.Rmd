@@ -410,7 +410,7 @@ class: inverse, center, middle
 
 ???
 
-- in the second study we again analyzed anchoring effects, but this time we analyzed whether they influence student teachers' interpretation of scientific evidence or more specifically the appropriateness of the sample size
+- in our second study we again analyzed anchoring effects but this time we analyzed whether externally set anchors influence student teachers' interpretation of scientific evidence 
 
 ---
 
@@ -427,6 +427,11 @@ class: inverse, center, middle
 <br>
 * 70.81 % of the students studied at least one STEM subject
 
+???
+
+- To answer our research question, 233 student teachers from the KA University of Eduaction participated in our study
+- as you can see just to get a quick impression of the demographics of our sample- most of the partipants were female and studied at least one STEM subject
+- 
 
 ---
 
@@ -437,12 +442,21 @@ Randomized Controlled Trial with two within-person factors .phgreen[*topic of ed
 <img style="vertical-align:middle" src="images/confhindanch_studymaterial_1.png">
 
 ???
-- each participant presented with two study reports on different topics from educational research sequentially and in randomized order
-- research reports: research question, drawn sample size and experimental design of the study 
-- results were presented in a later step, but for the RQ today irrelevant 
-- after participants have read the report, decided whether ‘the investigated sample size of students (either N = 15 or N = 500) in the presented study is appropriate to answer the research question’ using a Likert scale ranging from 1 = totally disagree to 7 = totally agree
-- two experimental groups: N1 = 15 and N2 = 500 or reverse 
-- two control groups: in both research reports the same sample size e.g., N1 = 15 und N2 = 15
+
+- We conducted again an experimental study. 
+- And in this study, participants were in total presented with two different study reports and were afterwards asked to rate the appropriateness of these described scientific studies. 
+
+- Let's take a closer look at what this exactly includes:
+  - As I said, each student teacher was presented with two different study reports
+  - Here you can see an example of such a study report. 
+  - Both reports were structured identically: They first informed about the research question a group of educational researchers was interested in - here it was whether students learn better in a lesson with discovery learning than a teacher-centered lesson. Afterwards the reports informed about the experimental design of the study - more precisely a randomized controlled trial - and the drawn sample size - here e.g., a sample size of 15 participants per group. 
+  - The reports not only randomly varied in their topic - the topics were discovery learning - as in this example - and learning styles. 
+  - But also in the drawn sample size. We manipulated the drawn sample size in a way that either a small sample (15 participants per group) - as in this example - or a large sample of 500 participants was presented.
+- This approach resulted in 
+  - two control groups, where student teachers were presented with the same sample size in both study reports, e.g., two times 15 participants 
+  - and two experimental groups, where student teachers were presented with different sample size in random order e.g., first 15, then 500 participants.
+  
+- Results obtained through the described experiment, were presented in a later step, but this part is irrelevant to the research question at hand which is why we skip this part today
 
 ---
 
@@ -453,20 +467,17 @@ Randomized Controlled Trial with two within-person factors .phgreen[*topic of ed
 <img style="vertical-align:middle" src="images/confhindanch_studymaterial_2.png">
 
 ???
-- after participants have read the report, decided, among others, whether ‘the investigated sample size of students (either N = 15 or N = 500) in the presented study is appropriate to answer the research question’ using a Likert scale ranging from 1 = totally disagree to 7 = totally agree
-- two experimental groups: N1 = 15 and N2 = 500 or reverse 
-- two control groups: in both research reports the same sample size e.g., N1 = 15 und N2 = 15
 
-???
-
+- But what we want to look at is that after reading the study report, participants both in the ExperimentalGs and CGs had to answer different questions.
+- Only one of these questions is important for today's presentation, namely the one right at the bottom outlined in green.
+- Referring to this question, the student teachers had to decide whether ‘the number of sampled students is appropriate to answer the research question' 
+- they had to give their answer on a Likert-scale ranging from totally disagree to totally agree
 
 ---
 ## .phgreenlight[Hypothesis]
 
-a) Taking into account the appropriateness rating of sample size 1, the .phgreen[experimental group 1] rates the presented .phgreen[sample size 2 as more appropriate] than the experimental group 2. <br> 
-<!-- Das ist übrigens die Kommentarfunktion :-) --- jetzt klingt es so als würden beide die gleiche sample size 2 angezeigt bekommen -->
-b) Taking into account the appropriateness rating of sample size 1, the .phgreen[experimental group 2] rates the presented .phgreen[sample size 2 as less appropriate] than the experimental group 1. <br> 
-c) Taking into account the appropriateness rating of sample size 1, there is .phgreen[no difference in the appropriateness rating of sample size 2] between the .phgreen[control group 1 and control group 2].
+a) Taking into account the appropriateness rating of sample size 1, the .phgreen[experimental group 1] rates the presented .phgreen[sample size 2 as more appropriate] than the experimental group 2. (or vice versa: Taking into account the appropriateness rating of sample size 1, the .phgreen[experimental group 2] rates the presented .phgreen[sample size 2 as less appropriate] than the experimental group 1.) <br> 
+b) Taking into account the appropriateness rating of sample size 1, there is .phgreen[no difference in the appropriateness rating of sample size 2] between the .phgreen[control group 1 and control group 2].
 
 <br>
 
@@ -484,9 +495,18 @@ control group 2 (CG1): N<sub>1</sub>=500, N<sub>2</sub>=500
 
 
 ???
-b)  The student teachers rate the sample size 2 as less appropriate if first presented with a large sample size (N<sub>1</sub>=500) and afterwards with a small sample size (N<sub>2</sub>=15) than vice versa. <br>
+- In general, the assumption was that the sample size in study 1 influences the appropriateness ratings of the sample size in study 2. 
 
+- More specifically, we formulated a hypothesis that consisted of two parts. Before I explain these two parts in more detail, just a quick reminder which group is which because this can be a bit confusing but is important to understand our hypothesis. You can see the reminder at the bottom of the slide, as well:
+Experimental group 1 is the group with a small anchor - meaning participants were first presented with a sample size of 15 participants and then with 500 participants per group. In contrast, the experimental group 2 is the group with the large anchor first 500, then 15 participants.
 
+But now - what did we exactly assume?
+- We assumed that, taking into account the appropriateness rating of sample size 1, the experimental group 1 - the group with the small anchor - rates the presented sample size 2 as more appropriate than the experimental group 2 
+- and on the other hand that there is no difference in the appropriateness rating of sample size 2 between our control groups.
+
+- To test this hypothesis we conducted a Bayesian ANOVA by including the treatment groups as the independent variable and the so-called adjusted appropriateness of sample size 2 as the dependent variable. To create this dependent variable, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one.
+
+- And this led to the following results:
 ---
 
 class: hide_logo
@@ -495,10 +515,12 @@ background-size: contain
 
 
 ???
-- to analyze whether the sample size presented in the first report acted as an anchor for assessing the adequacy of the sample size in the second report, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one
-- d for differences in EGs: 2.97
-- d for differences in CGs: 0.29
-- test
+
+- on the y-axis you can see the sample size in Study 1, right at the top you can see whether the sample size in study 2 consisted of 15 or 500 participants per group and on the x-axis you can see the adjusted appropriateness of sample size 2
+- It is quite obvious that in line with our hypothesis, the experimental groups differ in their appropriateness ratings: EG 1 - in the bottom right corner - rates the sample size 2 as more appropriate than EG 2. It can be clearly seen that this difference indicates a large effect (d-EGs: 2.97)
+- In contrast, the control groups in the left corner at the bottom and right corner at the top barely differ in their appropriateness ratings of sample size 1 and two 2 because the adjusted appropriateness ratings of sample size 2 are nearly zero. (d-CGs: 0.29). This result is again in line with our hypothesis
+- Bayes Factors also indicate strong evidence for our hypothesis 
+
 ---
 class: inverse, center, middle
 
@@ -524,6 +546,8 @@ Anchoring effects in interpreting .phgreen[scientific evidence]
 * &rarr; sample sizes are not the only indicator of quality and validity
 
 ???
+- In both studies, we found evidence for anchoring effects on student teachers’ engagement with different types of evidence. While Study 1 shows some evidence for anchoring effects on teacher students’ engagement with raw data,  the second study presents clear evidence for anchoring effects on interpreting scientific evidence. 
+
 * "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
 * DBDM and RIEP are supposed to be objective methods -> important to know about still possible biases
 * vermeintliche Objektivität dieser Methoden, aber auch hier kommen Verzerrungen ins Spiel -> wichtig zu wissen, um darauf eingehen zu können und sie möglicherweise sogar positiv wenden zu können
