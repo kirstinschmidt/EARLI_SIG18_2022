@@ -226,7 +226,7 @@ class: inverse, center, middle
 
 
 ???
-- Example Anchoring: Participants in an experiment were asked to estimate how old Gandhi became (Strack & Mussweiler, 1997) ...oder direkt Bsp. mit Bildungsbezug?
+- Example Anchoring: Participants in an experiment were asked to estimate how old Gandhi became (Strack & Mussweiler, 1997) 
   - before their estimations, one group got an anchor of 9 (estimation: 50) and the other of 140 (estimation: 67) ....
 - The Anchoring effect has been studied for half a century - nevertheless are the mechanisms behind the effect not completely clarified
 - There are different theories existing how anchoring occurs, for today only one conceivable theory, the scale distortion theory
@@ -236,7 +236,7 @@ class: inverse, center, middle
 - but overcoming this influence leads to more precise estimations
 - and when we want teachers to engage with evidence, data as well as scientific research, we need them to make precise estimations
 - This leads to the quote of Tversky and Kahneman, whom have most prominently described anchoring effects...
-- "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
+- "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> situations of uncertainty are characteristic of the educational systems, of schools and teaching  -> like the Anchoring effect in the context of EIP
 ---
 class: inverse, center, middle
 
@@ -295,9 +295,9 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 - these are screenshots of each of the three experiments, sorry that they are in german but...
 - first experiment as an example for exercise
 - participants could sample freely with this open text box: they could write a number in it
-- with the click on the button they got the results in form of a beeswarm plot
+- with the click on the button they got the results in graphical form
 - on the basis of this plot they could decide whether to sample more or if it's enough to answer the research question
-- so they could write numbers in the text box as long as they wanted to sample more -> sequential sampling
+- so they could write numbers in the text box as long as they wanted to sample more -> sequential sampling -> graphic update with every new sampling
 - same procedure for the second virtual experiment, but with these buttons as given sampling options
 - third experiment again with an open text box
 
@@ -402,7 +402,8 @@ H<sub>2</sub>: .phgreen[Small sampling options] in the second experiment (workin
 ???
 - We compared as first analyses the sampling of the two anchor conditions
 - We conducted Bayesian Wilcoxon-tests, with large effects for both of our hypotheses
-- great evidence for our hypotheses
+- descriptive: large effects for both of our hypotheses
+- strong evidence
 - H1: Our hypothesis is more than a hundred times more likely than the null hypothesis
 -> large anchoring effects on engaging with data
 
