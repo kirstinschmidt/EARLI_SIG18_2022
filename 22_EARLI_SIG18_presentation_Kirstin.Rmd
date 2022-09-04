@@ -538,7 +538,7 @@ I will conclude our presentation by discussing the results of both studies.
 
 ???
 
-- In both studies, we found evidence for anchoring effects in the context of EIEP. While Study 1 shows evidence for anchoring effects on teacher students’ engagement with raw data <!-- passgt das noch so? -->, the second one presents evidence for anchoring effects on interpreting scientific evidence. 
+- In both studies, we found evidence for anchoring effects in the context of EIEP. While Study 1 shows evidence for anchoring effects on teacher students’ engagement with raw data <!-- passt das noch so? -->, the second one presents evidence for anchoring effects on interpreting scientific evidence. 
 
 - But why is it important to consider anchoring effects in the context of EIEP? <!-- Especially because anchor effects are well studied. -->
 
