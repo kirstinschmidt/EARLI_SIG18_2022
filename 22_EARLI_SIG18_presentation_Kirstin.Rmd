@@ -410,7 +410,7 @@ class: inverse, center, middle
 
 ???
 
-- in our second study we again analyzed anchoring effects but this time we analyzed whether externally set anchors influence student teachers' interpretation of scientific evidence 
+- in our second study we again analyzed anchoring effects but this time we analyzed whether anchors influence student teachers' interpretation of scientific evidence 
 
 ---
 
