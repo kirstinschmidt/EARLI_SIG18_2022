@@ -429,9 +429,8 @@ class: inverse, center, middle
 
 ???
 
-- To answer our research question, 233 student teachers from the KA University of Eduaction participated in our study
+- To answer this research question, 233 student teachers from the KA University of Eduaction participated in our study
 - as you can see just to get a quick impression of the demographics of our sample- most of the partipants were female and studied at least one STEM subject
-- 
 
 ---
 
@@ -443,13 +442,13 @@ Randomized Controlled Trial with two within-person factors .phgreen[*topic of ed
 
 ???
 
-- We conducted again an experimental study. 
-- And in this study, participants were in total presented with two different study reports and were afterwards asked to rate the appropriateness of these described scientific studies. 
+- We conducted again an experimental study as in study 1.
+- But in this study, participants were in total presented with two different study reports and were afterwards asked to rate the appropriateness of different features of the described scientific studies. 
 
 - Let's take a closer look at what this exactly includes:
   - As I said, each student teacher was presented with two different study reports
-  - Here you can see an example of such a study report. 
-  - Both reports were structured identically: They first informed about the research question a group of educational researchers was interested in - here it was whether students learn better in a lesson with discovery learning than a teacher-centered lesson. Afterwards the reports informed about the experimental design of the study - more precisely a randomized controlled trial - and the drawn sample size - here e.g., a sample size of 15 participants per group. 
+  - Here you can see an example of such a study report on discovery learning. 
+  - Both reports were structured identically: They first informed about the research question a group of educational researchers was interested in - here it was whether students learn better in a lesson with discovery learning than a teacher-centered lesson. Afterwards the reports informed about the experimental design of the study - more precisely a randomized controlled trial with one experimental and one control group but described in an easy language - and the drawn sample size - here e.g., a sample size of 15 participants per group. 
   - The reports not only randomly varied in their topic - the topics were discovery learning - as in this example - and learning styles. 
   - But also in the drawn sample size. We manipulated the drawn sample size in a way that either a small sample (15 participants per group) - as in this example - or a large sample of 500 participants was presented.
 - This approach resulted in 
@@ -495,7 +494,7 @@ control group 2 (CG1): N<sub>1</sub>=500, N<sub>2</sub>=500
 
 
 ???
-- In general, the assumption was that the sample size in study 1 influences the appropriateness ratings of the sample size in study 2. 
+- Using these materials, we in general assumed that the sample size in study 1 influences the appropriateness ratings of the sample size in study 2. 
 
 - More specifically, we formulated a hypothesis that consisted of two parts. Before I explain these two parts in more detail, just a quick reminder which group is which because this can be a bit confusing but is important to understand our hypothesis. You can see the reminder at the bottom of the slide, as well:
 Experimental group 1 is the group with a small anchor - meaning participants were first presented with a sample size of 15 participants and then with 500 participants per group. In contrast, the experimental group 2 is the group with the large anchor first 500, then 15 participants.
@@ -526,11 +525,28 @@ class: inverse, center, middle
 
 # Discussion <i class="fab fa-weixin"></i>
 
+???
+
+I will conclude our presentation by discussing the results of both studies.
+
 ---
 ## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
 
-* DBDM and RIEP are supposed to be objective methods. 
-<!-- Mit Abkürzungen DBDM & RIEP hantieren oder nicht? -->
+<!-- * DBDM and RIEP are supposed to be objective methods.-->
+* Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence. 
+
+
+???
+
+- In both studies, we found evidence for anchoring effects in the context of EIEP. While Study 1 shows evidence for anchoring effects on teacher students’ engagement with raw data <!-- passgt das noch so? -->, the second one presents evidence for anchoring effects on interpreting scientific evidence. 
+
+- But why is it important to consider anchoring effects in the context of EIEP? <!-- Especially because anchor effects are well studied. -->
+
+
+---
+## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
+
+<!-- * DBDM and RIEP are supposed to be objective methods.-->
 * Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence. 
 
 <br>
@@ -546,17 +562,30 @@ Anchoring effects in interpreting .phgreen[scientific evidence]
 * &rarr; sample sizes are not the only indicator of quality and validity
 
 ???
-- In both studies, we found evidence for anchoring effects on student teachers’ engagement with different types of evidence. While Study 1 shows some evidence for anchoring effects on teacher students’ engagement with raw data,  the second study presents clear evidence for anchoring effects on interpreting scientific evidence. 
+<!-- bisher kaum Studien im spezifischen Schulkontext und wir können die Ergebnisse anderer Studien nicht einfach auf andere Kontexte übertragen --> 
 
-* "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9) -> like the Anchoring effect in the context of EIP
-* DBDM and RIEP are supposed to be objective methods -> important to know about still possible biases
+- I will illustrate the importance using two brief examples for DBDM and RIEP
+<!-- - In general, in everyday school life various anchors come into play that can influence the decisions of teachers, e.g. in the assessment of performance / in grading. .em06[(Dünnebier et al., 2009)] --> 
+
+- I will start with DBDM: Let's think of  benchmarks that are given in national tests, such as the mean value of a federal state. I think it is quite intuitive that these act as anchors because teachers compare the results of their own students with these benchmarks, which is of course intended by them. The comparison leads to different consequences, e.g. to different teaching practices. Such an Anchor can have positive consequences like facilitating an adequate interpretation of the students' performance but it can also lead to consequences that are not intended by statewide assessments. One such consequence is the example of teaching to the test if the performance of a class was poor.
+
+- In the context of RIEP, large samples of large-scale assessments could act as an anchor in the evaluation of experimental studies. These large samples could lead to a devaluation of the quality and validity of experimental studies due to comparatively small samples and in turn, to less consideration of their findings in school practice.
+- But we all know that sample size is not the only indicator of quality and validity.
+
+<!-- noch irgendwie erwähnen, dass wir die Konsequenzen nicht untersucht haben, aber das die Bedeutsamkeit verdeutlicht? --> 
+
+- These both examples illustrate that although DBDM and RIEP are supposed to be more objective practices, they are not free of distortions / biases such as anchoring effect. 
+- It is important to better understand these biases in the context of RIEP to improve
+decision-making either by relying on different types of data and scientific evidence
+
+
 * vermeintliche Objektivität dieser Methoden, aber auch hier kommen Verzerrungen ins Spiel -> wichtig zu wissen, um darauf eingehen zu können und sie möglicherweise sogar positiv wenden zu können
-* statewide assessments in Germany are...
-* another example for DBDM: * Effects in assessments of student performance .em06[(Dünnebier et al., 2009)]
+
 
 Überlegungen für Rückfragen
 - mediator
 - limitations 
+- replikationskrise: wir meinen Dinge zu wissen, die sich dann aber z.B. in anderen Kontexten nicht replizieren lassen
 ---
 ## .phgreenlight[References <i class="fas fa-book-open"></i>]
 
