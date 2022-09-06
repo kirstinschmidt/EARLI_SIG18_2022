@@ -442,21 +442,20 @@ Randomized Controlled Trial with two within-person factors .phgreen[*topic of ed
 
 ???
 
-- Our study materials included scientific study reports on two different topics from educational research in which a small or large anchor was included.
+- Our study materials included scientific study reports on two different topics from educational research in which either a small, a large anchor or no anchor was included.
 - Here you can see an example of such a study report on discovery learning
-- Let me explain this in more detail
+- Let me explain the meterial and design in more detail
 - In general, the study reports were structured identically: 
 - They first informed about 
   - the research question a group of educational researchers was interested in, 
   - then about the experimental design of the study with one experimental and one control group
   - and the drawn sample size to investigate the research question.
-- Each student teacher randomly received two of different study reports where the drawn sample size also varied randomly. They either received a small sample size of 15 participants or a large sample size of 500 participants per group.
+- Each student teacher randomly received two different study reports where the drawn sample size also varied randomly - either a small sample size of 15 participants or a large sample size of 500 participants per group.
 - This approach resulted in 
   - two control groups, where student teachers were presented with the same sample size in both study reports, e.g., two times 15 participants 
-  - and two experimental groups, where the first EG was presented with a small anchor - a sample size of 15 and then a large sample size 500; the second EG was presented with a large anchor - 500 participants per group and then the small sample size of 15 participants.
-  
-- Let's take a closer look at what this exactly includes:
- - here it was whether students learn better in a lesson with discovery learning than a teacher-centered lesson. with the drawn sample. - here e.g., a sample size of 15 participants per group. 
+  - and two experimental groups either with a small or a large anchor. For example the first EG was presented with a small anchor - a sample size of 15 and then a large sample size of 500 participants
+
+<!-- the second EG was presented with a large anchor - 500 participants per group and then the small sample size of 15 participants. --> 
 
 ---
 
