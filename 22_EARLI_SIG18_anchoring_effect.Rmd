@@ -413,7 +413,7 @@ class: inverse, center, middle
 
 # Study 2: Anchoring Effects in <br> Interpreting Scientific Evidence <i class="fas fa-search"></i>
 
-
+ 
 ???
 
 - in our second study we again analyzed anchoring effects but this time we analyzed whether anchors influence student teachers' interpretation of scientific evidence 
