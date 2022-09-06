@@ -452,7 +452,7 @@ Randomized Controlled Trial with two within-person factors .phgreen[*topic of ed
   - and the drawn sample size to investigate the research question.
 - Each student teacher randomly received two different study reports where the drawn sample size also varied randomly - either a small sample size of 15 participants or a large sample size of 500 participants per group.
 - This approach resulted in 
-  - two control groups, where student teachers were presented with the same sample size in both study reports, e.g., two times 15 participants 
+  - two control groups, where student teachers were presented with the same sample size in both study reports, so no anchor was set, e.g., two times 15 participants 
   - and two experimental groups either with a small or a large anchor. For example the first EG was presented with a small anchor - a sample size of 15 and then a large sample size of 500 participants
 
 <!-- the second EG was presented with a large anchor - 500 participants per group and then the small sample size of 15 participants. --> 
@@ -516,8 +516,8 @@ background-size: contain
 ???
 
 - on the y-axis you can see the sample size in Study 1, right at the top you can see whether the sample size in study 2 consisted of 15 or 500 participants per group and on the x-axis you can see the adjusted appropriateness of sample size 2
-- Hence, you can see the results of the EG1 in the bottom right corner, the results of the EG2 in the top left corner.
-- To create this dependent variable, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one.
+- Hence, you can see the results of the ExperimentalG1-the group with the small anchor-  in the bottom right corner, the results of the EG2-the group with the large anchor- in the top left corner.
+- Just a quick side note: To create the dependent variable adjusted appropriateness rating of sample size 2, we subtracted the appropriateness rating of the first study sample from the appropriateness rating of the second one.
 - It is quite obvious that in line with our hypothesis, the experimental groups differ in their appropriateness ratings: EG 1 - in the bottom right corner - rates the sample size 2 as more appropriate than EG 2 - top left corner. It can be clearly seen that this difference indicates a large effect (d-EGs: 2.97)
 - In contrast, the control groups in the left corner at the bottom and right corner at the top barely differ in their appropriateness ratings of sample size 1 and two 2 (d-CGs: 0.29). This descriptive result is again in line with our hypothesis
 - Bayes Factors also indicate strong evidence for our hypothesis 
