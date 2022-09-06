@@ -442,18 +442,21 @@ Randomized Controlled Trial with two within-person factors .phgreen[*topic of ed
 
 ???
 
-- We conducted again an experimental study as in study 1.
-- But in this study, participants were in total presented with two different study reports and were afterwards asked to rate the appropriateness of different features of the described scientific studies. 
-
-- Let's take a closer look at what this exactly includes:
-  - Here you can see an example of such a study report on discovery learning.
-  - As I said, each student teacher was presented with two different study reports
-  - Both reports were structured identically: They first informed about the research question a group of educational researchers was interested in - here it was whether students learn better in a lesson with discovery learning than a teacher-centered lesson. Afterwards the reports informed about the experimental design of the study - more precisely a randomized controlled trial with one experimental and one control group but described in an easy language - and the drawn sample size - here e.g., a sample size of 15 participants per group. 
-  - The reports not only randomly varied in their topic - the topics were discovery learning - as in this example - and learning styles. 
-  - But also in the drawn sample size. We manipulated the drawn sample size in a way that either a small sample (15 participants per group) - as in this example - or a large sample of 500 participants was presented.
+- Our study materials included scientific study reports on two different topics from educational research in which a small or large anchor was included.
+- Here you can see an example of such a study report on discovery learning
+- Let me explain this in more detail
+- In general, the study reports were structured identically: 
+- They first informed about 
+  - the research question a group of educational researchers was interested in, 
+  - then about the experimental design of the study with one experimental and one control group
+  - and the drawn sample size to investigate the research question.
+- Each student teacher randomly received two of different study reports where the drawn sample size also varied randomly. They either received a small sample size of 15 participants or a large sample size of 500 participants per group.
 - This approach resulted in 
   - two control groups, where student teachers were presented with the same sample size in both study reports, e.g., two times 15 participants 
-  - and two experimental groups, where student teachers were presented with different sample size in random order e.g., first 15, then 500 participants. 
+  - and two experimental groups, where the first EG was presented with a small anchor - a sample size of 15 and then a large sample size 500; the second EG was presented with a large anchor - 500 participants per group and then the small sample size of 15 participants.
+  
+- Let's take a closer look at what this exactly includes:
+ - here it was whether students learn better in a lesson with discovery learning than a teacher-centered lesson. with the drawn sample. - here e.g., a sample size of 15 participants per group. 
 
 ---
 
