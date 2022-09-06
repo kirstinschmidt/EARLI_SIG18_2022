@@ -179,8 +179,9 @@ class: inverse, center, middle
   
 ???
 * It is demanded by researchers as well as politics that teachers engage with evidence
-* formal (e.g. gradings) & informal data (e.g. observations into the classroom)
+* we know about different definitions of evidence, when we speak about evidence, we mean.... formal (e.g. gradings) & informal data (e.g. observations into the classroom)
 * ... which results in the two concepts of DBDM & RIEP
+* we adress both of these concepts with our studies, the first study is in the context of DBDM and the second study in the context on RIEP
 * both concepts can balance each other and Brown and colleagues combined them...
 
 * As an example: data gives us a very individual data basis
@@ -223,7 +224,7 @@ class: inverse, center, middle
 - Example Anchoring: Participants in an experiment were asked to estimate how old Gandhi became (Strack & Mussweiler, 1997) 
   - before their estimations, one group got an anchor of 9 (estimation: 50) and the other of 140 (estimation: 67) ....
 - The Anchoring effect has been studied for half a century - nevertheless are the mechanisms behind the effect not completely clarified
-- There are different theories existing how anchoring occurs
+- There are different theories existing how anchoring occurs, but these mechanisms behind are not our focus today - so let me tell you about some results of some previous research
 
 - in the long run, it's absolutely rational using Anchors as a helpful estimate
 - but overcoming this influence leads to more precise estimations
@@ -262,7 +263,7 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 ???
 - We conducted a randomized controlled trial with two experimental groups...
 - Participants were guided through 3 virtual experiments
-- The task in these experiments was always to sample in a sequential way until the participant was confident that she or he could adequately answer a research question
+- The task in these experiments was always to sample in a sequential way until the participant was confident that she or he could adequately answer a question on an educational topic by using data
 - e.g. "Do girls get better grades than boys"
 - Before we go through the whole figure, let me show you concretely how these experiments look
 
@@ -288,10 +289,10 @@ Randomized Controlled Trial with two experimental groups: .phgreen[*small anchor
 ???
 - these are screenshots of each of the three experiments, sorry that they are in german but...
 - first experiment as an example for exercise
-- participants could sample freely with this open text box: they could write a number in it
-- with the click on the button they got the results in graphical form
-- on the basis of this plot they could decide whether to sample more or if it's enough to answer the research question
-- so they could write numbers in the text box as long as they wanted to sample more -> sequential sampling -> graphic update with every new sampling
+- participants could sample freely with this open text box: they could enter a number in it
+- with the click on the button they got the results in a graphic 
+- on the basis of this graphic they could decide whether to sample more or if it's enough to answer the question
+- so they could enter numbers in the text box as long as they wanted to sample more -> sequential sampling -> graphic update with every new sampling
 - same procedure for the second virtual experiment, but with these buttons as given sampling options
 - third experiment again with an open text box
 
