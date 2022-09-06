@@ -542,13 +542,12 @@ I will conclude our presentation by discussing the results of both studies.
 
 - In both studies, we found evidence for anchoring effects in the context of EvidenceISchoolP. While Study 1 shows evidence for anchoring effects on teacher students’ engagement with data, the second one presents evidence for anchoring effects on interpreting scientific evidence. 
 
-When we think of EISP in general, what consequences can occur because of the anchoring effect?
+- But when we think of EISP in general, what consequences can occur because of the anchoring effect?
 
 
 ---
 ## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
 
-<!-- * DBDM and RIEP are supposed to be objective methods.-->
 * Both studies indicate evidence for anchoring effects on student teachers' engagement with different types of evidence. 
 
 <br>
@@ -564,17 +563,17 @@ Anchoring effects in interpreting .phgreen[scientific evidence]
 * &rarr; sample sizes are not the only indicator of quality and validity
 
 ???
-<!-- bisher kaum Studien im spezifischen Schulkontext und wir können die Ergebnisse anderer Studien nicht einfach auf andere Kontexte übertragen --> 
 
-- I will illustrate this using two brief examples for DBDM and RIEP
-<!-- - In general, in everyday school life various anchors come into play that can influence the decisions of teachers, e.g. in the assessment of performance / in grading. .em06[(Dünnebier et al., 2009)] --> 
+- I will illustrate this using two brief examples - one for DBDM and one for RIEP
 
-- I will start with DBDM: Let's think of  benchmarks that are given in national tests such as statewide assessments. I think it is quite intuitive that these benchmarks act as anchors because teachers compare the results of their own students with for example a mean value of a federal state. This comparison is of course intended by such benchmarks. However, the comparison leads to different consequences, e.g. to different teaching practices. Such an Anchor can have positive consequences like facilitating an adequate interpretation of the students' performance but it can also lead to consequences that are not intended by statewide assessments. One such consequence is the example of teaching to the test if the performance of a class was poor or at least below the average of a federal state.
+- I will start with DBDM: Let's think of national tests such as statewide assessments - they often provide benchmarks like mean a mean value of the federal state where a specific school belongs to. I think it is quite intuitive that this mean value act as anchors because teachers compare the results of their own students with this value. This comparison is of course intended by benchmarks. However, the comparison leads to different consequences, e.g. to different teaching practices. 
+- Such an Anchor can have positive consequences like facilitating an adequate interpretation of the students' performance
+- but it can also lead to consequences that are not intended by statewide assessments. If the performance of a class was poor or at least below the average of a federal state it might lead to teaching to the test. In this case, data is not used to ...
 
 - In the context of RIEP, large samples of large-scale assessments such as PISA could act as an anchor in the evaluation of experimental studies.The large PISA-samples could lead to a devaluation of the quality and validity of experimental studies due to their comparatively small samples. In turn, teachers might take less account of findings form such experimental studies in their school practice. But we all know that sample size is not the only indicator of quality and validity.
 
-- These both examples illustrate that although DBDM and RIEP are supposed to be more objective practices, they are not free of distortions / biases such as anchoring effect. 
-- It is important to better understand these biases in the context of EvidenceISP to improve teachers' evidence informed actions 
+- These both examples also illustrate that although DBDM and RIEP are supposed to be more objective practices, they are not free of distortions / biases such as anchoring effect. There might also be further biases such as confirmation bias - Kim Schildkamp already talked about in her keynote. 
+- It is important to better understand these biases in the context of EvidenceISP to improve teachers' evidence informed actions.
 - Our next steps are to find approaches to take these results into account in order to foster teachers' engagement with evidence.
 
 - And with this statement I will close our presentation – Thank you for your attention
