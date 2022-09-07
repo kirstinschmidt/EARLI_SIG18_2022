@@ -562,14 +562,13 @@ One example for anchoring effects in .phgreen[evidence-informed practice]
 
 ???
 
-- When we think of school practice there are many situations were anchoring can occur, for example in grading situations or in statewide assessments were benchmarks can act as an anchor and lead to different practical decisions depending on which anchor has acted. But let me illustrate another example in more detail 
+- In school practice there are many situations were anchoring can occur, for example in grading situations or in statewide assessments were benchmarks can act as an anchor and lead to different practical decisions depending on which anchor has acted. But let me illustrate another example in more detail 
 
 - In the context of EIP, large samples of large-scale assessments such as PISA could act as an anchor in the evaluation of experimental studies. The large PISA-samples could lead to a devaluation of the quality and validity of experimental studies due to their comparatively small samples. In turn, teachers might take less account of findings form such experimental studies in their school practice. But we all know that sample size is not the only indicator of quality and validity.
-- Benchmarks that are integrated in such 
 
 - This example illustrates that although EIP is supposed to be a more objective practice, it is not free of distortions / biases such as anchoring effect. There might also be further biases such as confirmation bias - Kim Schildkamp already talked about in her keynote. 
 - It is important to better understand these biases in the context of EvidenceISP to improve teachers' engagement or more precisely interpretation of evidence.
-- Our next steps are to find approaches to take these results into account in order to foster teachers' engagement with evidence.
+- Our next steps are to find approaches to take these results into account in order to foster teachers' engagement with evidence and try to handle these biases.
 
 - And with this statement I will close our presentation – Thank you for your attention
 We are looking forward to your questions and the discussion
