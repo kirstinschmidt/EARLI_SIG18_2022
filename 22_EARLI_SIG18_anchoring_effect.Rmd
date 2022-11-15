@@ -436,7 +436,6 @@ class: inverse, center, middle
 
 ???
 
-I will conclude our presentation by discussing the results of both studies.
 
 ---
 ## .phgreenlight[Discussion <i class="fab fa-weixin"></i>]
